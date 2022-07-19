@@ -1548,6 +1548,9 @@ https://linear-410.frequency.stream/410/hls/master/playlist_1280x720.m3u8
  
 #EXTINF:-1 tvg-logo="", PE | Contacto deportivo
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", PE | D13
+https://unlimited10-cl.dps.live/13d/13d.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Garage tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w867902640_b1296000_sleng.m3u8
