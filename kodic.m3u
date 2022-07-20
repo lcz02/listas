@@ -42,15 +42,15 @@ https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-logo="", PE | Bella Asunción
 https://tvdatta.com:3602/stream/play.m3u8
  
-#EXTINF:-1 tvg-logo="", CL | Viwix tv
-https://593b04c4c5670.streamlock.net/8008/8008/chunklist_w1080576048.m3u8
- 
 #EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png", DO | Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1911109501.m3u8
  
 #EXTINF:-1 tvg-logo="", BO | Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w397291135.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", BO | Renueva digital
+https://my.tiviapp.com/renuevadigital/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="", PE | Lima live
 https://stmv.panel.grupolimalive.com/limalive/limalive/chunklist_w429533925.m3u8
  
@@ -64,6 +64,12 @@ https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-logo="", RU | RT esp
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Neo tv
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Bayres tv
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Ciudad mágica tv
 https://fullvideo.enlaweb.com.ar/video63/video63/playlist.m3u8
@@ -105,8 +111,7 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
 #EXTINF:-1 tvg-logo="", CL | Evastream
 https://mediacpstreamchile.com:1936/evavision/evavision/chunklist_w219381874.m3u8
  
-#EXTINF:-1 tvg-logo="", BO | Renueva digital
-https://my.tiviapp.com/renuevadigital/tracks-v1a1/mono.m3u8
+
  
 # -----------------------------------------------------
  
@@ -121,12 +126,7 @@ https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 #EXTINF:-1 tvg-logo="", AR | 2 Misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/1_2/index.m3u8
  
-#EXTINF:-1 tvg-logo="", AR | 3 Las Heras
-https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w434902865.m3u8
- 
-#EXTINF:-1 tvg-logo="", AR | 3 La Pampa
-https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/chunklist_w1479291461_b663840.m3u8
- 
+
 #EXTINF:-1 tvg-logo="", AR | 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w102593106_b2211840.m3u8
  
@@ -184,9 +184,6 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w144250
 #EXTINF:-1 tvg-logo="", AR | AZM tv
 https://live.canalnueve.tv/canal.m3u8
  
-#EXTINF:-1 tvg-logo="", AR | Bayres tv
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
- 
 #EXTINF:-1 tvg-logo="", AR | Blu
 https://59537faa0729a.streamlock.net/radioblu/radioblu/chunklist_w958318389.m3u8
  
@@ -240,9 +237,6 @@ https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Multivision federal
 http://panel.dattalive.com:1935/8250/8250/chunklist_w522175010.m3u8
- 
-#EXTINF:-1 tvg-logo="", AR | Neo tv
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Net TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
@@ -696,7 +690,7 @@ https://stmv1.zcastbr.com/roatanhableclaro/roatanhableclaro/chunklist_w489793922
 #EXTINF:-1 tvg-logo="", HN | TV Copan
 https://emisoras.hn:8081/tvcopan/tracks-v1a1/mono.m3u8
  
-#EXTINF:-1 tvg-logo="", HN | Azteca 7
+#EXTINF:-1 tvg-logo="", MX | Azteca 7
 https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", MX | Las estrellas
@@ -1066,8 +1060,13 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10281
 #EXTINF:-1 tvg-logo="", Comedy Central (Pluto tv)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=unknown&deviceId=unknown
  
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-logo="", South Park 24/7
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=6.3.2-5c85dbd33db416f3d28b020c6bfeff5642cb037c&app_name=web&clientDeviceType=0&clientID=458937c6-1b21-47ec-afb3-ca333580bf75&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=458937c6-1b21-47ec-afb3-ca333580bf75&deviceLat=-26.8249&deviceLon=-65.2237&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=103.0.0&marketingRegion=VE&serverSideAds=true&sessionID=1ed253a6-07a1-11ed-9be5-0242ac110003&sid=1ed253a6-07a1-11ed-9be5-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg0M2YzODJiLTk3NzMtNDA3ZS04YWJhLThjYTVhMWVhYTUzYyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxZWQyNTNhNi0wN2ExLTExZWQtOWJlNS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjI4MDM6OTgwMDphNDQwOjdlMTQ6YThkZTpmMjE6MzQ3YTpjNzViIiwiY2l0eSI6IlNhbiBNaWd1ZWwgZGUgVHVjdW3DoW4iLCJwb3N0YWxDb2RlIjoiNDAwMCIsImNvdW50cnkiOiJBUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi0yNi44MjQ5LCJkZXZpY2VMb24iOi02NS4yMjM3LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMDMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjMuMi01Yzg1ZGJkMzNkYjQxNmYzZDI4YjAyMGM2YmZlZmY1NjQyY2IwMzdjIiwiY2xpZW50SUQiOiI0NTg5MzdjNi0xYjIxLTQ3ZWMtYWZiMy1jYTMzMzU4MGJmNzUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9BcmdlbnRpbmEvVHVjdW1hbiIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NTgyOTEyMTAsImp0aSI6ImZmOGIzYjk1LWZmN2MtNGRiMS1iOGM0LTU3MDY4ZDc5YmM1ZCIsImlhdCI6MTY1ODI2MjQxMCwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk5EVTRPVE0zWXpZdE1XSXlNUzAwTjJWakxXRm1Zak10WTJFek16TTFPREJpWmpjMSJ9.cI7HvNiILp5FcRWbuihU673mxEWE0Ixe8vYCLhzqD6c&masterJWTPassthrough=true
+plugin://plugin.video.plutotv/play/pvr/609ae5cd48d3200007b0a98e
  
 #EXTINF:-1 tvg-logo="", LA | Solo Stand-Up
 https://paneltv.online:1936/8116/8116/chunklist_w1681650202.m3u8
