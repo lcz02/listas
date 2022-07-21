@@ -38,7 +38,19 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
  
 #EXTINF:-1 tvg-logo="", PE | Cine club
 https://servilive.com:3176/live/cineclublive.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", CL | Viwix tv Estrenos
+https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Viwix tv Acción
+https://cloudvideo.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Viwix tv Terror
+https://cloudvideo.servers10.com:8081/8206/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Viwix tv Series
+https://cloudvideo.servers10.com:8081/8208/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="", PE | Bella Asunción
 https://tvdatta.com:3602/stream/play.m3u8
  
@@ -1316,6 +1328,9 @@ https://linear-418.frequency.stream/418/hls/master/playlist_1024x576.m3u8
  
 #EXTINF:-1 tvg-logo="", MX | Telehit musica plus
 https://linear-419.frequency.stream/419/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Viwix tv Music
+https://cloudvideo.servers10.com:8081/8210/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | CM
 http://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8|Referer=https://vmf.edge-apps.net
