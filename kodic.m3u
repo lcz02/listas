@@ -1,7 +1,7 @@
 #EXTM3U
  
 # --- Lista latinoamericana para pvr iptvsimple de Kodi ----
-# --- Actualizada 12/7/22  ---
+# --- Actualizada 23/7/22 ---
 # --- Haciendo click en RAW obtienes la url en formato correcto ---
  
 # -------------- Selección ---------------------
@@ -73,6 +73,9 @@ https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-logo="", RU | RT esp
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:-1 tvg-logo="", PA | TV Max
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Neo tv
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -704,15 +707,27 @@ https://linear-423.frequency.stream/423/hls/master/playlist_1280x720.m3u8
  
 #EXTINF:-1 tvg-logo="", NI | 4 Nicaragua
 plugin://plugin.video.dailymotion_com/?url=x7rwv8c&mode=playLiveVideo
- 
+
+#EXTINF:-1 tvg-logo="", NI | Canal 6
+http://138.117.4.70:8075/channel6/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="", NI | TN8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w379870609.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", NI | Canal 9
+http://138.117.4.70:8075/channel9/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="", NI | 10 Nicaragua
 https://dr16kqaca4jpc.cloudfront.net/hls/canal10_480.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", NI | Canal 11
+http://138.117.4.70:8075/channel11/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="", NI | 13 Viva Nicaragua
 plugin://plugin.video.dailymotion_com/?url=x7u200z&mode=playLiveVideo
+
+#EXTINF:-1 tvg-logo="", NI | La rock 22
+http://138.117.4.70:8075/channel22/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", NI | Wtv
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
@@ -903,6 +918,9 @@ plugin://plugin.video.dailymotion_com/?url=x7x4dgx&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="", PE | Wtv
 https://tv.inka.net.pe/wtv/wtv/tracks-v1a1/mono.m3u8
  
+#EXTINF:-1 tvg-logo="", PE | X tv
+https://tv.oyotunstream.com:1936/xtv/xtv/chunklist_w1830535672.m3u8
+ 
 #EXTINF:-1 tvg-logo="", PY | Somos del este
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
  
@@ -962,6 +980,9 @@ http://s5.mexside.net:1935/tvflorida/tvflorida/chunklist_w1483690655.m3u8
 #EXTINF:-1,Level up
 https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195/variant/22099553.m3u8
 ##https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195.m3u8
+
+#EXTINF:-1 tvg-logo="", VE | Esports max
+http://vcpar.myplaytv.com/esportsmax/live/chunklist_w1720451177.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Energeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
@@ -1012,16 +1033,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
  
 # ------------------ Humor ----------------------
  
-#EXTINF:-1 tvg-logo="", Distrito comedia
+#EXTINF:-1 tvg-logo="", MX | Distrito comedia
 https://linear-405.frequency.stream/405/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="", VE | Humor max
+http://vcpar.myplaytv.com/humormax/live/chunklist_w1313750930.m3u8
  
-#EXTINF:-1 tvg-logo="", jajaja
+#EXTINF:-1 tvg-logo="", MX | jajaja
 https://linear-310.frequency.stream/310/hls/master/playlist_1024x576.m3u8
  
-#EXTINF:-1 tvg-logo="", Familia P.Luche 24/7
+#EXTINF:-1 tvg-logo="", MX | Familia P.Luche 24/7
 https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist_1024x576.m3u8
  
-#EXTINF:-1 tvg-logo="", Vecinos 24/7
+#EXTINF:-1 tvg-logo="", MX | Vecinos 24/7
 https://linear-314.frequency.stream/314/hls/master/playlist_1024x576.m3u8
  
 #EXTINF:-1 tvg-logo="", Los Simpsons 24/7
@@ -1041,7 +1065,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d0
  
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.playback_as_live=false
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-logo="", South Park 24/7
@@ -1179,12 +1204,12 @@ https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
 
 #EXTINF:-1 tvg-logo="", CO | Canal Capital
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
- 
-#EXTINF:-1 tvg-logo="", MX | Cultural H
-https://fe18-201-114-104-33.ngrok.io/tmp_hls/stream/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="", MX | Justicia TV
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="", MX | Canal 22
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w1989185983_b1428000_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
@@ -1233,7 +1258,7 @@ https://sabermas-distro.amagi.tv/SaberMas-xumo/master_5.m3u8
  
  
 #EXTINF:-1 tvg-logo="", DE | Deutsche Welle esp
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
  
 #EXTINF:-1 tvg-logo="", US | CNN esp
 https://linear-358.frequency.stream/358/hls/master/playlist_1280x720.m3u8
@@ -1413,7 +1438,10 @@ https://rtmp.info/canal38/envivo/chunklist_w859424597.m3u8
  
 #EXTINF:-1 tvg-logo="", Ni | Sol tv
 https://rtmp.info/soltv/envivo/chunklist_w1913628823.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", VE | Fiesta max tv
+http://vcpar.myplaytv.com/fiestamax/live/chunklist_w945390712.m3u8
+
 #EXTINF:-1 tvg-logo="", VE | Italianissimo
 https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w10192049.m3u8
  
@@ -1498,9 +1526,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=871
  
 #EXTINF:-1, Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
- 
-#EXTINF:-1 tvg-logo="", Spanglish
-https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/42a2197f-8243-4919-afd6-c4a990850acb/1.m3u8
  
 #EXTINF:-1 tvg-logo="", CO | Cinema+
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/chunklist_w1339460521.m3u8
@@ -1631,8 +1656,8 @@ https://linear-373.frequency.stream/373/hls/master/playlist_1024x576.m3u8
 #EXTINF:-1 tvg-logo="", Eventos TUDN 15
 https://linear-374.frequency.stream/374/hls/master/playlist_1024x576.m3u8
  
-#EXTINF:-1 tvg-logo="", MX | TUDN
-https://linear-347.frequency.stream/347/hls/master/playlist_1280x720.m3u8
+##EXTINF:-1 tvg-logo="", MX | TUDN
+#https://linear-347.frequency.stream/347/hls/master/playlist_1280x720.m3u8
  
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
