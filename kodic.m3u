@@ -990,6 +990,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
 #EXTINF:-1 tvg-logo="", CL | Energeek 2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="", CL | Energeek 3
+https://stream.wifispeed.cl:3993/live/energeeklive.m3u8
+
 #EXTINF:-1 tvg-logo="", bitMe
 https://linear-401.frequency.stream/401/hls/master/playlist_1024x576.m3u8
  
@@ -1250,15 +1253,14 @@ https://linear-390.frequency.stream/390/hls/master/playlist_1024x576.m3u8
  
 #EXTINF:-1,Saber mas
 https://sabermas-distro.amagi.tv/SaberMas-xumo/master_5.m3u8
+
+#EXTINF:-1 tvg-logo="", DE | Deutsche Welle esp
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
  
 # ----------------------------------------
  
  
 # ---------- Noticias --------------------
- 
- 
-#EXTINF:-1 tvg-logo="", DE | Deutsche Welle esp
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
  
 #EXTINF:-1 tvg-logo="", US | CNN esp
 https://linear-358.frequency.stream/358/hls/master/playlist_1280x720.m3u8
@@ -1554,9 +1556,20 @@ https://linear-410.frequency.stream/410/hls/master/playlist_1280x720.m3u8
 # -------------------------------------------------------
  
 # -------------- Deportes -----------------
- 
+
 #EXTINF:-1 tvg-logo="", PE | Contacto deportivo
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-logo="", BO | Deporte total play
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+ 
+#EXTINF:-1 tvg-logo="", PE | Best cable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | D13
 https://unlimited10-cl.dps.live/13d/13d.smil/playlist.m3u8
@@ -1569,10 +1582,7 @@ https://siloh-latam-aka.plutotv.net/lilo/production/FuelTV/LATAM/master_2.m3u8
  
 #EXTINF:-1 tvg-logo="", ES | Real Madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
- 
-#EXTINF:-1 tvg-logo="", ES | UD Las Palmas tv
-https://cdn044.fractalmedia.es:9443/live015/stream/live/cudtv/high/index.m3u8
- 
+  
 #EXTINF:-1 tvg-logo="", CR | MZ Sports
 https://video.misistemareseller.com/mzsports/mzsports/chunklist_w340635633.m3u8
  
@@ -1582,17 +1592,6 @@ https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/in
 #EXTINF:-1, IT | Sportitalia Solocalcio
 https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/A35A86245F13B326BB177D133E45311C8D046D71/index.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-logo="", BO | Deporte total play
-https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
- 
-#EXTINF:-1 tvg-logo="", PE | Best cable Sports
-https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
- 
 #EXTINF:-1 tvg-logo="", Directtv sports
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
  
@@ -1637,28 +1636,7 @@ https://linear-367.frequency.stream/367/hls/master/playlist_1024x576.m3u8
  
 #EXTINF:-1 tvg-logo="", Eventos TUDN 9
 https://linear-368.frequency.stream/368/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 10
-https://linear-369.frequency.stream/369/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 11
-https://linear-370.frequency.stream/370/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 12
-https://linear-371.frequency.stream/371/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 13
-https://linear-372.frequency.stream/372/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 14
-https://linear-373.frequency.stream/373/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 15
-https://linear-374.frequency.stream/374/hls/master/playlist_1024x576.m3u8
- 
-##EXTINF:-1 tvg-logo="", MX | TUDN
-#https://linear-347.frequency.stream/347/hls/master/playlist_1280x720.m3u8
- 
+
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
  
@@ -1667,6 +1645,9 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | TNT Sports
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 
 # -----------------------------------------------
  
