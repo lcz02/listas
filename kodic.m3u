@@ -10,7 +10,7 @@
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
  
 #EXTINF:-1 tvg-logo="", AR | TVP
-https://g1.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8|Referer=https://vmf.edge-apps.net
+https://g5.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8|Referer=https://vmf.edge-apps.net
  
 #EXTINF:-1 tvg-logo="", AR | El nueve
 http://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live-audio_1=128000-video=2800000.m3u8
