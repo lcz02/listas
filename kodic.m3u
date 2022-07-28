@@ -16,7 +16,7 @@ https://g5.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 http://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live-audio_1=128000-video=2800000.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | America
-https://g1.vxral-hor.transport.edge-access.net/a07/americahls-100056/playlist_720p.m3u8|Referer=https://vmf.edge-apps.net
+https://g1.vxral-hor.transport.edge-access.net/a07/americahls-100056/playlist_720p.m3u8|Referer=https://vmf.edge-apps.net/
 
 #EXTINF:-1 tvg-logo="", AR | Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
@@ -206,7 +206,7 @@ https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 https://video.streamtvradio.com:8443/uv068/uv068/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Canal de la ciudad
-https://g4.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8|Referer=https://vmf.edge-apps.net
+https://g4.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8|Referer=https://vmf.edge-apps.net/
  
 #EXTINF:-1 tvg-logo="", AR | Chaco tv
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w1046057439.m3u8
