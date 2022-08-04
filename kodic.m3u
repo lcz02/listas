@@ -28,7 +28,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3
 https://srv2.zcast.com.br/sptv2/sptv2/chunklist_w1020051544.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Planetatv movies
-https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all/chunklist.m3u8
+https://tls-cl.cdnz.cl/planetatvmovie/live/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", DO | Mega Cine tv
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
@@ -1337,6 +1337,9 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w16123408
  
 #EXTINF:-1 tvg-logo="", CL | Mundo de la musica
 https://videostreaming.cloudserverlatam.com/8078/8078/chunklist_w52223735.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Planeta tv music
+https://tls-cl.cdnz.cl/planetatvmusic/live/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Rewind
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1761070164.m3u8
