@@ -57,8 +57,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1911109501.m3u8
 #EXTINF:-1 tvg-logo="", BO | Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w397291135.m3u8
 
-#EXTINF:-1 tvg-logo="", BO | Renueva digital
-https://my.tiviapp.com/renuevadigital/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", CL | Origen
+https://tv.streaming-chile.com:1936/origenradio/origenradio/chunklist_w2062633083.m3u8
 
 #EXTINF:-1 tvg-logo="", PE | Lima live
 https://stmv.panel.grupolimalive.com/limalive/limalive/chunklist_w429533925.m3u8
@@ -128,9 +128,6 @@ https://mediacpstreamchile.com:1936/evavision/evavision/chunklist_w219381874.m3u
 # -----------------------------------------------------
  
 # -------------- Latinoamerica ----------------------
- 
-#EXTINF:-1 tvg-logo="", AR | Telefe Tucumán
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0316
  
 #EXTINF:-1 tvg-logo="", AR | 2 Jujuy
 https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
@@ -255,6 +252,9 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunk
  
 #EXTINF:-1 tvg-logo="", AR | Norte tv
 https://video.streamtvradio.com:8443/uv027/uv027/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Panc tv
+https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Quatro tv
 https://stream.arcast.live/quatro/quatro/chunklist_w2074874609.m3u8
@@ -314,6 +314,9 @@ https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w1600278216.m3u8
  
 #EXTINF:-1 tvg-logo="", BO | Mega tv Amazonia
 https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", BO | Renueva digital
+https://my.tiviapp.com/renuevadigital/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", BO | Seo tv
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
@@ -368,7 +371,7 @@ https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w303325137.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Club tv
 https://mediacpstreamchile.com:1936/clubtv/clubtv/chunklist_w1278329990.m3u8
- 
+
 #EXTINF:-1 tvg-logo="", CL | Soberania
 https://tls-cl.cdnz.cl/radiosoberania/live/chunklist_w1923164494.m3u8
 
@@ -728,6 +731,9 @@ plugin://plugin.video.dailymotion_com/?url=x7u200z&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="", NI | La rock 22
 http://138.117.4.70:8075/channel22/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", NI | Vos tv
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", NI | Wtv
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
@@ -971,6 +977,9 @@ https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", UY | TV Florida
 http://s5.mexside.net:1935/tvflorida/tvflorida/chunklist_w1483690655.m3u8
+
+#EXTINF:-1 tvg-logo="", VE | TRV
+https://vcp3.myplaytv.com/trv/trv/chunklist_w1502862757.m3u8
  
 # --------------------------------------------------
  
@@ -983,6 +992,9 @@ https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195/variant/22099
 
 #EXTINF:-1 tvg-logo="", VE | Esports max
 http://vcpar.myplaytv.com/esportsmax/live/chunklist_w1720451177.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Chilevisión contigo
+https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master_1.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Energeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
