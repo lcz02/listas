@@ -1359,6 +1359,9 @@ https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1761070164.m3u8
 #EXTINF:-1 tvg-logo="", IT | Radio Capital
 https://streamcdnb12-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b2428000.m3u8
 #http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="", Loop 80s
+https://loop-80s-2.roku.wurl.com/manifest/47035e3bc9b2a203a226c0f75f009a94.m3u8
  
 #EXTINF:-1 tvg-logo="", IT | VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
@@ -1655,11 +1658,11 @@ https://linear-368.frequency.stream/368/hls/master/playlist_1024x576.m3u8
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
  
-##EXTINF:-1 tvg-logo="", AR | Deportv
-#https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2119290181.m3u8
+#EXTINF:-1 tvg-logo="", AR | Deportv
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2119290181.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | ESPN Premium
 https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
