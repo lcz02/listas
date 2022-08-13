@@ -186,6 +186,9 @@ https://streamyes.alsolnet.com/canal34hd/live/chunklist_w533645534.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | 50 Monteros
 https://coopmorteros.online/canal50/vivo.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | 63 Patagonia IP
+https://videohd.live:19360/8122/8122.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Argentinisima satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1442504911_b1912000_sleng.m3u8
@@ -198,7 +201,10 @@ https://59537faa0729a.streamlock.net/radioblu/radioblu/chunklist_w958318389.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | BVC
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", AR | BTV
+https://videohd.live:19360/8018/8018.m3u8
+
 #EXTINF:-1 tvg-logo="", AR | Calchaqui tv
 https://video.streamtvradio.com:8443/uv068/uv068/playlist.m3u8
  
@@ -225,6 +231,9 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Del Sur tv
 http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Imagen regional tv
+https://videohd.live:19360/8078/8078.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Itel tv
 http://66.128.32.245/output/iteltv/track_2_4500/playlist.m3u8
@@ -282,6 +291,9 @@ https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | V!vo
 https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Yapeyu Cable color
+https://videohd.live:19360/8094/8094.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Zonda TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
@@ -1114,7 +1126,7 @@ http://sierra-002-showbusiness.unitedteleports.tv/SIERRA/showbusinesstv-demo.m3u
 http://sierra-001-latinangels.unitedteleports.tv/SIERRA/latinangels-demo.m3u8
  
 #EXTINF:-1 tvg-logo="", US | Runway
-https://vse2-sa-all26.secdn.net/runway-origin/live/runway/chunklist_sess124551805.m3u8
+https://vse2-sa-all26.secdn.net/runway-origin/live/runway_480p/chunklist_sess197165841.m3u8
  
 #EXTINF:-1 tvg-logo="", FR | Fashion tv
 https://siloh.pluto.tv/lilo/production/FashionTV/master_1.m3u8
