@@ -1518,6 +1518,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-cane
  
 # ----------- Plex - Roku - Vix - Canela -------------
 # ------------------- + Pelis ---------------------------
+
+#EXTINF:-1, Paramount+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a75c3503-789a-4528-a59e-15ba63900445&clientModelNumber=na&deviceDNT=false&deviceId=a75c3503-789a-4528-a59e-15ba63900445&deviceLat=-20.2234&deviceLon=-70.1456&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.72&marketingRegion=VE&serverSideAds=true&sessionID=6a0c896a-7d52-11eb-b762-0242ac110002&sid=6a0c896a-7d52-11eb-b762-0242ac110002&userId=
  
 #EXTINF:-1,RUNTIME MX
 https://runtimemx-samsungmx.amagi.tv/playlist720p.m3u8
@@ -1666,6 +1669,21 @@ https://linear-367.frequency.stream/367/hls/master/playlist_1024x576.m3u8
  
 #EXTINF:-1 tvg-logo="", Eventos TUDN 9
 https://linear-368.frequency.stream/368/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1 group-title="SPORT", Eventos TyC Play 1
+https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
+
+#EXTINF:-1 group-title="SPORT", Eventos TyC Play 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
+
+#EXTINF:-1 group-title="SPORT", Eventos TyC Play 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+
+#EXTINF:-1 group-title="SPORT", Eventos TyC Play 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+
+#EXTINF:-1 group-title="SPORT", Eventos TyC Play 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
 
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
