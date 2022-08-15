@@ -1,7 +1,7 @@
 #EXTM3U
  
 # --- Lista latinoamericana para pvr iptvsimple de Kodi ----
-# --- Actualizada 23/7/22 ---
+# --- Actualizada 15/8/22 ---
 # --- Haciendo click en RAW obtienes la url en formato correcto ---
  
 # -------------- Selección ---------------------
@@ -77,14 +77,11 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-logo="", PA | TV Max
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Neo tv
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
 #EXTINF:-1 tvg-logo="", AR | Bayres tv
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Ciudad mágica tv
-https://fullvideo.enlaweb.com.ar/video63/video63/playlist.m3u8
+https://videohd.fullstreaming.ar:3939/live/grupocitylive.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | VClassic tv
 https://5eff35271151c.streamlock.net:1936/8112/8112/chunklist_w861060366.m3u8
@@ -460,8 +457,8 @@ http://tiquiciatv.com:1935/stv/web/chunklist_w1871360088.m3u8
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w1009161539.m3u8
  
 #EXTINF:-1 tvg-logo="", CR | Tv Sur
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w1852045039.m3u8
- 
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w76029557.m3u8
+
 #EXTINF:-1 tvg-logo="", CR | IQ tv
 https://rtmp.info/iqtv/envivo/chunklist_w1831064530.m3u8
  
@@ -1683,7 +1680,7 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2119290181.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | ESPN Premium
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
