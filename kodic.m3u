@@ -28,7 +28,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3
 https://srv2.zcast.com.br/sptv2/sptv2/chunklist_w1020051544.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Planetatv movies
-https://tls-cl.cdnz.cl/planetatvmovie/live/playlist.m3u8
+https://scl.edge.grupoz.cl/movie/live/chunklist_w12926219.m3u8
  
 #EXTINF:-1 tvg-logo="", DO | Mega Cine tv
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
@@ -36,23 +36,23 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="", PE | Cine club
 https://servilive.com:3176/live/cineclublive.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | Viwix tv Estrenos
-https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
+##EXTINF:-1 tvg-logo="", CL | Viwix tv Estrenos
+##https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | Viwix tv Acción
-https://cloudvideo.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
+##EXTINF:-1 tvg-logo="", CL | Viwix tv Acción
+##https://cloudvideo.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | Viwix tv Terror
-https://cloudvideo.servers10.com:8081/8206/tracks-v1a1/mono.m3u8
+##EXTINF:-1 tvg-logo="", CL | Viwix tv Terror
+##https://cloudvideo.servers10.com:8081/8206/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | Viwix tv Series
-https://cloudvideo.servers10.com:8081/8208/tracks-v1a1/mono.m3u8
+##EXTINF:-1 tvg-logo="", CL | Viwix tv Series
+##https://cloudvideo.servers10.com:8081/8208/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="", PE | Bella Asunción
-https://tvdatta.com:3602/stream/play.m3u8
+##EXTINF:-1 tvg-logo="", PE | Bella Asunción
+##https://tvdatta.com:3602/stream/play.m3u8
  
 #EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png", DO | Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1911109501.m3u8
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", BO | Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w397291135.m3u8
@@ -81,7 +81,7 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Ciudad mágica tv
-https://videohd.fullstreaming.ar:3939/live/grupocitylive.m3u8
+https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | VClassic tv
 https://5eff35271151c.streamlock.net:1936/8112/8112/chunklist_w861060366.m3u8
@@ -104,9 +104,6 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1045e40ee9f9492ea5f0fbac4ae32d7d~mv2.png", GT | TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
- 
-#EXTINF:-1 tvg-logo="", US | ACS Network
-https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Retro play tv
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
@@ -1001,18 +998,12 @@ https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195/variant/22099
 
 #EXTINF:-1 tvg-logo="", VE | Esports max
 http://vcpar.myplaytv.com/esportsmax/live/chunklist_w1720451177.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | Chilevisión contigo
-https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master_1.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Energeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Energeek 2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | Energeek 3
-https://stream.wifispeed.cl:3993/live/energeeklive.m3u8
 
 #EXTINF:-1 tvg-logo="", bitMe
 https://linear-401.frequency.stream/401/hls/master/playlist_1024x576.m3u8
@@ -1030,10 +1021,10 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
  
 #EXTINF:-1 tvg-logo="", Latino kids tv
-https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w953408544.m3u8
+https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w1825354279.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Planetatv kids
-https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1856996833.m3u8
+https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1931709746.m3u8
  
 #EXTINF:-1 tvg-logo="", PA | Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w969641642.m3u8
@@ -1204,6 +1195,9 @@ https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w241301408.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Ceac
 https://hd.chileservidores.cl:1936/ceactv/ceactv/chunklist_w1984333120.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Chilevisión contigo
+https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master_1.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Hipertv
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
@@ -1351,7 +1345,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w16123408
 https://videostreaming.cloudserverlatam.com/8078/8078/chunklist_w52223735.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Planeta tv music
-https://tls-cl.cdnz.cl/planetatvmusic/live/playlist.m3u8
+https://scl.edge.grupoz.cl/music/live/chunklist_w688657287.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Rewind
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1761070164.m3u8
