@@ -84,7 +84,10 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | VClassic tv
-https://5eff35271151c.streamlock.net:1936/8112/8112/chunklist_w861060366.m3u8
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1993337622.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | VClassic tv tropical
+https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1293437143.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
@@ -1000,10 +1003,10 @@ https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195/variant/22099
 http://vcpar.myplaytv.com/esportsmax/live/chunklist_w1720451177.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Energeek
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessionid=2480067
  
 #EXTINF:-1 tvg-logo="", CL | Energeek 2
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 
 #EXTINF:-1 tvg-logo="", bitMe
 https://linear-401.frequency.stream/401/hls/master/playlist_1024x576.m3u8
@@ -1198,6 +1201,9 @@ https://hd.chileservidores.cl:1936/ceactv/ceactv/chunklist_w1984333120.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Chilevisión contigo
 https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Cultura online
+https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Hipertv
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
