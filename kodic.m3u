@@ -1604,9 +1604,6 @@ https://video.misistemareseller.com/mzsports/mzsports/chunklist_w340635633.m3u8
 #EXTINF:-1, PT | 11 Internacional Portugal
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
 
-#EXTINF:-1, IT | Sportitalia Solocalcio
-https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/A35A86245F13B326BB177D133E45311C8D046D71/index.m3u8
-
 #EXTINF:-1 tvg-logo="", Directtv sports
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
  
@@ -1622,36 +1619,6 @@ https://linear-348.frequency.stream/348/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="", Liga MX
 https://linear-452.frequency.stream/452/hls/master/playlist_1024x576.m3u8
  
-#EXTINF:-1 tvg-logo="", MX | Zona TUDN
-https://linear-356.frequency.stream/dist/localnow/356/hls/master/playlist_1280x720.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 1
-https://linear-360.frequency.stream/360/hls/master/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 2
-https://linear-361.frequency.stream/361/hls/master/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 3
-https://linear-362.frequency.stream/362/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 4
-https://linear-363.frequency.stream/363/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 5
-https://linear-364.frequency.stream/364/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 6
-https://linear-365.frequency.stream/365/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 7
-https://linear-366.frequency.stream/366/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 8
-https://linear-367.frequency.stream/367/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", Eventos TUDN 9
-https://linear-368.frequency.stream/368/hls/master/playlist_1024x576.m3u8
-
 #EXTINF:-1 tvg-logo="", Eventos TyC Play 1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
 
@@ -1666,6 +1633,9 @@ https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/ind
 
 #EXTINF:-1 tvg-logo="", Eventos TyC Play 5
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
+
+#EXTINF:-1, IT | Sportitalia Solocalcio
+https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/A35A86245F13B326BB177D133E45311C8D046D71/index.m3u8
 
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
