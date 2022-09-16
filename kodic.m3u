@@ -18,9 +18,6 @@ http://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live-audio_1=1280
 #EXTINF:-1 tvg-logo="", AR | America
 https://g1.vxral-hor.transport.edge-access.net/a07/americahls-100056/playlist_720p.m3u8|Referer=https://vmf.edge-apps.net/
 
-#EXTINF:-1 tvg-logo="", AR | Ciudad Magazine
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
- 
 #EXTINF:-1 tvg-logo="", AR | Cine ar
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3u8
  
@@ -36,29 +33,26 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="", PE | Cine club
 https://servilive.com:3176/live/cineclublive.m3u8
 
-##EXTINF:-1 tvg-logo="", CL | Viwix tv Estrenos
-##https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", CL | Viwix tv Estrenos
+https://s2.tvdatta.com:3172/hybrid/play.m3u8
 
-##EXTINF:-1 tvg-logo="", CL | Viwix tv Acción
-##https://cloudvideo.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", CL | Viwix tv Acción
+https://s2.tvdatta.com:3457/hybrid/play.m3u8
 
-##EXTINF:-1 tvg-logo="", CL | Viwix tv Terror
-##https://cloudvideo.servers10.com:8081/8206/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", CL | Viwix tv Terror
+https://s2.tvdatta.com:3849/hybrid/play.m3u8
 
-##EXTINF:-1 tvg-logo="", CL | Viwix tv Series
-##https://cloudvideo.servers10.com:8081/8208/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", CL | Viwix tv Series
+https://s2.tvdatta.com:3402/hybrid/play.m3u8
 
-##EXTINF:-1 tvg-logo="", PE | Bella Asunción
-##https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:-1 tvg-logo="", PE | Bella Asunción
+https://tvdatta.com:3602/stream/play.m3u8
  
 #EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png", DO | Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", BO | Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w397291135.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | Origen
-https://tv.streaming-chile.com:1936/origenradio/origenradio/chunklist_w2062633083.m3u8
 
 #EXTINF:-1 tvg-logo="", PE | Lima live
 https://stmv.panel.grupolimalive.com/limalive/limalive/chunklist_w429533925.m3u8
@@ -131,7 +125,6 @@ https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | 2 Misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/1_2/index.m3u8
- 
 
 #EXTINF:-1 tvg-logo="", AR | 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w102593106_b2211840.m3u8
@@ -440,6 +433,9 @@ https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w941119200.m3u8
  
 #EXTINF:-1 tvg-logo="", CR | Ticavision
 https://59ef525c24caa.streamlock.net/HBTV/HBTV/chunklist_w1285300041.m3u8
+
+#EXTINF:-1 tvg-logo="", CR | TV Curre
+http://k6.usastreams.online/Tvcurre/Tvcurre/chunklist_w1328912992.m3u8
  
 #EXTINF:-1 tvg-logo="", CO | TV Peñol
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/chunklist_w139066416.m3u8
@@ -1339,7 +1335,7 @@ https://linear-418.frequency.stream/418/hls/master/playlist_1024x576.m3u8
 https://linear-419.frequency.stream/419/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Viwix tv Music
-https://cloudvideo.servers10.com:8081/8210/tracks-v1a1/mono.m3u8
+https://s2.tvdatta.com:3548/hybrid/play.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | CM
 http://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8|Referer=https://vmf.edge-apps.net
@@ -1651,6 +1647,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2119290181.
  
 #EXTINF:-1 tvg-logo="", AR | TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | City Sports
+https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8
 
 # -----------------------------------------------
  
