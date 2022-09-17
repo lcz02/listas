@@ -33,18 +33,6 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="", PE | Cine club
 https://servilive.com:3176/live/cineclublive.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | Viwix tv Estrenos
-https://s2.tvdatta.com:3172/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | Viwix tv Acción
-https://s2.tvdatta.com:3457/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | Viwix tv Terror
-https://s2.tvdatta.com:3849/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | Viwix tv Series
-https://s2.tvdatta.com:3402/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-logo="", PE | Bella Asunción
 https://tvdatta.com:3602/stream/play.m3u8
  
@@ -122,9 +110,6 @@ https://mediacpstreamchile.com:1936/evavision/evavision/chunklist_w219381874.m3u
  
 #EXTINF:-1 tvg-logo="", AR | 2 Jujuy
 https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
- 
-#EXTINF:-1 tvg-logo="", AR | 2 Misiones
-https://nd106.republicaservers.com:4433/hls/canal2misioness/1_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w102593106_b2211840.m3u8
@@ -683,11 +668,11 @@ https://emisoras.hn:8081/tvcopan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="", MX | Azteca 7
 https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="", MX | Las estrellas
-https://linear-413.frequency.stream/413/hls/master/playlist_1280x720.m3u8
+##EXTINF:-1 tvg-logo="", MX | Las estrellas
+##https://linear-413.frequency.stream/413/hls/master/playlist_1280x720.m3u8
  
-#EXTINF:-1 tvg-logo="", MX | 5 CDMX
-https://linear-351.frequency.stream/351/hls/master/playlist_1280x720.m3u8
+##EXTINF:-1 tvg-logo="", MX | 5 CDMX
+##https://linear-351.frequency.stream/351/hls/master/playlist_1280x720.m3u8
  
 #EXTINF:-1 tvg-logo="", MX | 9 CDMX
 https://linear-352.frequency.stream/352/hls/master/playlist_1280x720.m3u8
@@ -710,8 +695,8 @@ https://estrella-games-oando.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-logo="", MX | Nuestra vision
 https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_2.m3u8
  
-#EXTINF:-1 tvg-logo="", MX | Unicable
-https://linear-423.frequency.stream/423/hls/master/playlist_1280x720.m3u8
+##EXTINF:-1 tvg-logo="", MX | Unicable
+##https://linear-423.frequency.stream/423/hls/master/playlist_1280x720.m3u8
  
 #EXTINF:-1 tvg-logo="", NI | 4 Nicaragua
 plugin://plugin.video.dailymotion_com/?url=x7rwv8c&mode=playLiveVideo
@@ -1004,8 +989,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessioni
 #EXTINF:-1 tvg-logo="", CL | Energeek 2
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 
-#EXTINF:-1 tvg-logo="", bitMe
-https://linear-401.frequency.stream/401/hls/master/playlist_1024x576.m3u8
+##EXTINF:-1 tvg-logo="", bitMe
+##https://linear-401.frequency.stream/401/hls/master/playlist_1024x576.m3u8
  
 #EXTINF:-1 tvg-logo="", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -1047,14 +1032,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
  
 # ------------------ Humor ----------------------
  
-#EXTINF:-1 tvg-logo="", MX | Distrito comedia
-https://linear-405.frequency.stream/405/hls/master/playlist_1280x720.m3u8
+##EXTINF:-1 tvg-logo="", MX | Distrito comedia
+##https://linear-405.frequency.stream/405/hls/master/playlist_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="", VE | Humor max
 http://vcpar.myplaytv.com/humormax/live/chunklist_w1313750930.m3u8
  
-#EXTINF:-1 tvg-logo="", MX | jajaja
-https://linear-310.frequency.stream/310/hls/master/playlist_1024x576.m3u8
+##EXTINF:-1 tvg-logo="", MX | jajaja
+##https://linear-310.frequency.stream/310/hls/master/playlist_1024x576.m3u8
  
 #EXTINF:-1 tvg-logo="", MX | Familia P.Luche 24/7
 https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist_1024x576.m3u8
@@ -1302,10 +1287,7 @@ https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-vid
  
 ##EXTINF:-1 tvg-logo="", LA | Telesur
 ##https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="", MX | Foro tv
-https://linear-300.frequency.stream/dist/localnow/300/hls/master/playlist_1280x720.m3u8
- 
+
 #EXTINF:-1 tvg-logo="", MX | Univision noticias
 https://linear-306.frequency.stream/306/hls/master/playlist_1024x576.m3u8
  
@@ -1446,9 +1428,6 @@ https://hvtrafico.ddns.net/pastocnc4/cnc4/chunklist_w1252319002.m3u8
 #EXTINF:-1 tvg-logo="", CO | Mi gente tv
 https://hvtrafico.ddns.net/migente720/migente720.stream/chunklist_w26232916.m3u8
  
-#EXTINF:-1 tvg-logo="", Bandamax
-https://linear-400.frequency.stream/400/hls/master/playlist_1024x576.m3u8
- 
 #EXTINF:-1 tvg-logo="", CR | 38
 https://rtmp.info/canal38/envivo/chunklist_w859424597.m3u8
  
@@ -1465,11 +1444,8 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w10192049.m3u8
  
 # -------------- Novelas ----------------------
  
-#EXTINF:-1, MX | tln tlnovelas
-https://linear-421.frequency.stream/421/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1, La rosa de Guadalupe
-https://linear-344.frequency.stream/344/hls/master/playlist_1024x576.m3u8
+##EXTINF:-1, La rosa de Guadalupe
+##https://linear-344.frequency.stream/344/hls/master/playlist_1024x576.m3u8
  
 #EXTINF:-1, Como dice el dicho
 https://linear-341.frequency.stream/dist/roku/341/hls/master/playlist_1024x576.m3u8
@@ -1492,11 +1468,6 @@ https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 #EXTINF:-1, Sony Novelas
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
  
-#EXTINF:-1, Novelisima
-https://v-ny.theus6tv.tk/hls/42.8/playlist.m3u8
- 
-#EXTINF:-1, TR | Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/daf94cdf-35ec-47b8-b09a-2b2f429fe15a/3.m3u8
  
 # ----------------------------------------------------
  
@@ -1552,23 +1523,29 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/chunklist_w1339460521
 #EXTINF:-1,Film Stream
 https://siloh-latam-aka.plutotv.net/lilo/production/Filmstream/LATAM/master_1.m3u8
  
-#EXTINF:-1, D pelicula
-https://linear-354.frequency.stream/354/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1, D pelicula plus
-https://linear-404.frequency.stream/404/hls/master/playlist_1024x576.m3u8
- 
 #EXTINF:-1, Sony Cine
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Viwix tv Series
+https://s2.tvdatta.com:3402/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Viwix tv Estrenos
+https://s2.tvdatta.com:3172/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Viwix tv Acción
+https://s2.tvdatta.com:3457/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Viwix tv Terror
+https://s2.tvdatta.com:3849/hybrid/play.m3u8
+
+##EXTINF:-1, Golden
+##https://linear-406.frequency.stream/406/hls/master/playlist_1280x720.m3u8
  
-#EXTINF:-1, Golden
-https://linear-406.frequency.stream/406/hls/master/playlist_1280x720.m3u8
+##EXTINF:-1, Golden Edge
+##https://linear-407.frequency.stream/407/hls/master/playlist_1280x720.m3u8
  
-#EXTINF:-1, Golden Edge
-https://linear-407.frequency.stream/407/hls/master/playlist_1280x720.m3u8
- 
-#EXTINF:-1, Golden plus
-https://linear-410.frequency.stream/410/hls/master/playlist_1280x720.m3u8
+##EXTINF:-1, Golden plus
+##https://linear-410.frequency.stream/410/hls/master/playlist_1280x720.m3u8
  
 # -------------------------------------------------------
  
@@ -1615,8 +1592,8 @@ http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="", MX | Lo mejor de la Liga MX
 https://linear-193.frequency.stream/193/hls/master/playlist_1280x720.m3u8
  
-#EXTINF:-1 tvg-logo="", MX | Affizionados
-https://linear-348.frequency.stream/348/hls/master/playlist_1280x720.m3u8
+##EXTINF:-1 tvg-logo="", MX | Affizionados
+##https://linear-348.frequency.stream/348/hls/master/playlist_1280x720.m3u8
  
 #EXTINF:-1 tvg-logo="", Liga MX
 https://linear-452.frequency.stream/452/hls/master/playlist_1024x576.m3u8
