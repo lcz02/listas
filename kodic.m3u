@@ -16,7 +16,8 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 http://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live-audio_1=128000-video=2800000.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | America
-https://g1.vxral-hor.transport.edge-access.net/a07/americahls-100056/playlist_720p.m3u8|Referer=https://vmf.edge-apps.net/
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/americahls-100056.m3u8
+#https://g1.vxral-hor.transport.edge-access.net/a07/americahls-100056/playlist_720p.m3u8|Referer=https://vmf.edge-apps.net/
 
 #EXTINF:-1 tvg-logo="", AR | Cine ar
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3u8
@@ -1243,11 +1244,12 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="", ES | Euronews
 https://siloh-ns1.plutotv.net/lilo/production/Euronews/master_1.m3u8
  
-#EXTINF:-1 tvg-logo="", AR | Cronica
-https://g2.proy-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8|Referer=https://vmf.edge-apps.net
+##EXTINF:-1 tvg-logo="", AR | Cronica
+##https://g2.proy-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8|Referer=https://vmf.edge-apps.net
  
 #EXTINF:-1 tvg-logo="", AR | A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8|Referer=https://vmf.edge-apps.net
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/a24-100056_720p.m3u8
+#https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8|Referer=https://vmf.edge-apps.net
  
 #EXTINF:-1 tvg-logo="", AR | C5N
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/c5n/live
