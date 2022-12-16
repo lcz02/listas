@@ -1028,15 +1028,9 @@ https://linear-314.frequency.stream/314/hls/master/playlist_1024x576.m3u8
  
 #EXTINF:-1 tvg-logo="", Los Simpsons 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w155594006.m3u8
- 
-#EXTINF:-1 tvg-logo="", Los Simpsons 24/7 (2)
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w525032556.m3u8
- 
-#EXTINF:-1 tvg-logo="", Ren y Stimpy 24/7
-https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w22603642.m3u8
- 
-#EXTINF:-1 tvg-logo="", El Chavo tv 24/7
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w102819193.m3u8
+
+#EXTINF:-1 tvg-logo="", La familia del barrio 24/7
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62d08af527ce19000731eaa0/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a75c3503-789a-4528-a59e-15ba63900445&clientModelNumber=na&deviceDNT=false&deviceId=a75c3503-789a-4528-a59e-15ba63900445&deviceLat=-20.2234&deviceLon=-70.1456&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.72&marketingRegion=VE&serverSideAds=true&sessionID=6a0c896a-7d52-11eb-b762-0242ac110002&sid=6a0c896a-7d52-11eb-b762-0242ac110002&userId=
  
 #EXTINF:-1 tvg-logo="", Comedy Central (Pluto tv)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=unknown&deviceId=unknown
@@ -1121,7 +1115,8 @@ https://d1o1m0b8hn74yt.cloudfront.net/out/v1/dcd3c3ade6994cc9ba1f6e534ff4d1e8/in
 # ------------ Culturales -------------
  
 #EXTINF:-1 tvg-logo="", Pluto tv Ciencia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=unknown&deviceId=unknown
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a75c3503-789a-4528-a59e-15ba63900445&clientModelNumber=na&deviceDNT=false&deviceId=a75c3503-789a-4528-a59e-15ba63900445&deviceLat=-20.2234&deviceLon=-70.1456&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.72&marketingRegion=VE&serverSideAds=true&sessionID=6a0c896a-7d52-11eb-b762-0242ac110002&sid=6a0c896a-7d52-11eb-b762-0242ac110002&userId=
+#http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=unknown&deviceId=unknown
  
 #EXTINF:-1 tvg-logo="", AR | Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w2123580557.m3u8
