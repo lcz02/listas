@@ -33,6 +33,9 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="", PE | Cine club
 https://servilive.com:3176/live/cineclublive.m3u8
 
+#EXTINF:-1 tvg-logo="", CL | TV Prime movie
+https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8
+
 #EXTINF:-1 tvg-logo="", PE | Bella Asunción
 https://tvdatta.com:3602/stream/play.m3u8
  
@@ -1531,11 +1534,9 @@ https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/6197F24C2DDD359567D
 
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
- 
-##EXTINF:-1 tvg-logo="", AR | Deportv
-##https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2119290181.m3u8
- 
 
+#EXTINF:-1 tvg-logo="", Test
+https://1125-vos.dtvott.com/DASH/manifest.mpd?&ck=eyI0Y2I0OWRmMzQxNDIzY2I1OTdiZjNlNzliNzhmMmE1MiI6IjExYWQ2OWQyYzg0ZjQxZGJiNTIwYWJmZTM4YjE5ZmU3In0=
 
 # -----------------------------------------------
  
