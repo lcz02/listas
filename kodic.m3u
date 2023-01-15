@@ -385,7 +385,10 @@ https://videohls2.cosmovision.tv/hls/sd_480p1128kbs/index.m3u8
  
 #EXTINF:-1 tvg-logo="", CO | Multicanal televisión
 https://cloud2.streaminglivehd.com:1936/8010/8010/chunklist_w809078802.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", CO | RCN
+https://dailymotionlive.akamaized.net/sec(RiWEtJG0nU_F5iuiUOWAlz4vgJRXE2wFxVkgyeMAl0NBNJxsYwox_hbztYZ-Z7CO)/dm/3/x7wikpz/s/live-1.m3u8
+
 #EXTINF:-1 tvg-logo="", CO | Trece
 https://stream.logicideas.media/canaltrece-live/smil:live.smil/chunklist_w267146496_b2250000.m3u8
  
@@ -1534,9 +1537,6 @@ https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/6197F24C2DDD359567D
 
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-
-#EXTINF:-1 tvg-logo="", Test
-https://1125-vos.dtvott.com/DASH/manifest.mpd?&ck=eyI0Y2I0OWRmMzQxNDIzY2I1OTdiZjNlNzliNzhmMmE1MiI6IjExYWQ2OWQyYzg0ZjQxZGJiNTIwYWJmZTM4YjE5ZmU3In0=
 
 # -----------------------------------------------
  
