@@ -45,9 +45,9 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", BO | Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w397291135.m3u8
 
-#EXTINF:-1, Paramount+
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a75c3503-789a-4528-a59e-15ba63900445&clientModelNumber=na&deviceDNT=false&deviceId=a75c3503-789a-4528-a59e-15ba63900445&deviceLat=-20.2234&deviceLon=-70.1456&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.72&marketingRegion=VE&serverSideAds=true&sessionID=6a0c896a-7d52-11eb-b762-0242ac110002&sid=6a0c896a-7d52-11eb-b762-0242ac110002&userId=
- 
+#EXTINF:-1, Cortos
+https://amc-cortos-1-us.plex.wurl.tv/6b2d27316f6db09cd580f408e7652200.m3u8
+
 #EXTINF:-1 tvg-logo="", CL | UCV
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
  
@@ -1085,6 +1085,9 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
  
 #EXTINF:-1 tvg-logo="", CO | RCN+
 https://rcntv-rcnmas-1-us.roku.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="", CO | RCN extra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", ES | Explore
 https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist1080_p.m3u8
