@@ -1,7 +1,7 @@
 #EXTM3U
  
 # --- Lista latinoamericana para pvr iptvsimple de Kodi ----
-# --- Actualizada 15/8/22 ---
+# --- Actualizada 26/1/23 ---
 # --- Haciendo click en RAW obtienes la url en formato correcto ---
  
 # -------------- Selección ---------------------
@@ -18,11 +18,8 @@ http://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live-audio_1=1280
 #EXTINF:-1 tvg-logo="", AR | Cine ar
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3u8
 
-#EXTINF:-1, Sony Cine
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v4a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="", AR | SPTV
-https://srv2.zcast.com.br/sptv2/sptv2/chunklist_w1020051544.m3u8
+#EXTINF:-1, LA | Sony Cine
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Planetatv movies
 https://scl.edge.grupoz.cl/movie/live/chunklist_w12926219.m3u8
@@ -45,7 +42,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", BO | Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w397291135.m3u8
 
-#EXTINF:-1, Cortos
+#EXTINF:-1, LA | Cortos
 https://amc-cortos-1-us.plex.wurl.tv/6b2d27316f6db09cd580f408e7652200.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | UCV
@@ -61,10 +58,10 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Bayres tv
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
- 
-#EXTINF:-1 tvg-logo="", AR | Ciudad mágica tv
-https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", CL | Retro play tv
+https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="", CL | VClassic tv
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1993337622.m3u8
 
@@ -83,15 +80,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
  
 #EXTINF:-1 tvg-logo="", AR | El Palomar tv
 https://video.streamtvradio.com:8443/uv038/uv038/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="", US | Mi TV
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1045e40ee9f9492ea5f0fbac4ae32d7d~mv2.png", GT | TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
- 
-#EXTINF:-1 tvg-logo="", CL | Retro play tv
-https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", CR | Telered
 https://video20.klm99.com:3558/live/teleredlive.m3u8
@@ -99,10 +90,6 @@ https://video20.klm99.com:3558/live/teleredlive.m3u8
 #EXTINF:-1 tvg-logo="", CR | Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
  
-#EXTINF:-1 tvg-logo="", CL | Evastream
-https://mediacpstreamchile.com:1936/evavision/evavision/chunklist_w219381874.m3u8
- 
-
  
 # -----------------------------------------------------
  
@@ -121,7 +108,7 @@ https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w145853
 https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1774784638.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | 5 Tigre
-https://videostream01.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
  
 ##EXTINF:-1 tvg-logo="", AR | C5 Tucuman
 ##https://videohd.live:19360/8090/8090.m3u8
@@ -179,7 +166,10 @@ https://video.streamtvradio.com:8443/uv068/uv068/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Chaco tv
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w1046057439.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", AR | Ciudad mágica tv
+https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
+
 #EXTINF:-1 tvg-logo="", AR | Ciudad tv (Chaco)
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
  
@@ -209,6 +199,9 @@ https://inliveserver.com:1936/14056/14056/chunklist_w1717706659.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | La voz de Tucumán
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/chunklist_w184400380.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | M
+https://videohd.live:19360/8006/8006.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Metro tv
 http://streamtv12.ddns.net:5080/LiveApp/streams/193945633734205616732920.m3u8
@@ -263,7 +256,7 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 #EXTINF:-1 tvg-logo="", BO | Rec on line
 https://master.tucableip.com/reconline/live/video.m3u8
  
-#EXTINF:-1 tvg-logo="", BO | Anyi tv
+#EXTINF:-1 tvg-logo="", BO | Ayni tv
 http://hd.istbolivia.com:1935/aynitv/aynitv/chunklist_w149669505.m3u8
  
 #EXTINF:-1 tvg-logo="", BO | ATB
@@ -715,6 +708,9 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
  
 #EXTINF:-1 tvg-logo="", PA | tvn
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="", PA | TVMAX
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
  
 #EXTINF:-1 tvg-logo="", PA | Ser tv
 plugin://plugin.video.dailymotion_com/?url=x81cvsk&mode=playLiveVideo
@@ -996,7 +992,7 @@ https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w1825354279.m3u8
 https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1931709746.m3u8
  
 #EXTINF:-1 tvg-logo="", PA | Dreiko TV
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w969641642.m3u8
+https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1058973886.m3u8
