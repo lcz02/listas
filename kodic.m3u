@@ -1002,6 +1002,9 @@ https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w46116948.m3u8
  
 #EXTINF:-1 tvg-logo="", PA | Dreiko TV
 https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
+
+#EXTINF:-1 tvg-logo="", Variedtv
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1058973886.m3u8
@@ -1136,13 +1139,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w2123580557.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | TEC
-https://g5.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8|Referer=https://vmf.edge-apps.net
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Mirador
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Litus TV
-https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/chunklist_w377485986_b1531904.m3u8
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/chunklist_w1200864970_b1531904.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Santa Fe Canal
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
