@@ -59,6 +59,9 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-logo="", AR | Bayres tv
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
+#EXTINF:-1 tvg-logo="", CL | Moni tv
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1821841006.m3u8
+
 #EXTINF:-1 tvg-logo="", CL | Retro play tv
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
@@ -74,7 +77,10 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 # --------------------------------------------------------
  
 # --------------- Retro tv -------------------------
- 
+
+#EXTINF:-1 tvg-logo="", PR | ACS Network
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+
 #EXTINF:-1 tvg-logo="", LA | Retro Plus Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w627481903.m3u8
  
@@ -964,17 +970,14 @@ https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195/variant/22099
 #EXTINF:-1 tvg-logo="", VE | Esports max
 http://vcpar.myplaytv.com/esportsmax/live/chunklist_w1720451177.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | Energeek retro
-https://scl.edge.grupoz.cl/transmision/live/chunklist_w1826746102.m3u8
+#EXTINF:-1 tvg-logo="", CL | Energeek Retro
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | Energeek fanpop
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="", CL | Energeek Fanpop
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | Energeek animate
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | Energeek radio
-https://stream.wifiexpert.cl/energeek/radio/chunks.m3u8
+#EXTINF:-1 tvg-logo="", CL | Energeek Animate
+https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", LA | Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
@@ -986,7 +989,7 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
  
 #EXTINF:-1 tvg-logo="", Latino kids tv
-https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w1825354279.m3u8
+https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w231877540.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Planetatv kids
 https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1931709746.m3u8
