@@ -20,7 +20,28 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3
 
 #EXTINF:-1, LA | Sony Cine
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
- 
+
+#EXTINF:-1, LA | Runtime Peliculas
+https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+
+#EXTINF:-1, LA | Runtime Accion
+https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
+
+#EXTINF:-1, LA | Runtime Comedia
+https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
+
+#EXTINF:-1, LA | Runtime Crimen
+https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
+
+#EXTINF:-1, LA | Runtime Terror
+https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
+
+#EXTINF:-1, LA | Runtime Romance
+https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
+
+#EXTINF:-1, LA | Runtime Familia
+https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
+
 #EXTINF:-1 tvg-logo="", CL | Planetatv movies
 https://scl.edge.grupoz.cl/movie/live/chunklist_w12926219.m3u8
  
@@ -41,18 +62,6 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w397291135.m3u8
 
 #EXTINF:-1, LA | Cortos
 https://amc-cortos-1-us.plex.wurl.tv/6b2d27316f6db09cd580f408e7652200.m3u8
-
-#EXTINF:-1, LA | Runtime Accion
-https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac.m3u8
-
-#EXTINF:-1, LA | Runtime Comedia
-https://run-rc-la.otteravision.com/run/rc_la/rc_la.m3u8
-
-#EXTINF:-1, LA | Runtime Crimen
-https://run-rucrl.otteravision.com/run/rucrl/rucrl.m3u8
-
-#EXTINF:-1, LA | Runtime Terror
-https://run-ruthr.otteravision.com/run/ruthr/ruthr.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | UCV
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
