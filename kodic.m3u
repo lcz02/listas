@@ -13,7 +13,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | El nueve
-http://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live-audio_1=128000-video=2800000.m3u8
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#http://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live-audio_1=128000-video=2800000.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Cine ar
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3u8
