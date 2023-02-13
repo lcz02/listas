@@ -16,8 +16,8 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #http://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live-audio_1=128000-video=2800000.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Cine ar
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3u8
+##EXTINF:-1 tvg-logo="", AR | Cine ar
+##https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3u8
 
 #EXTINF:-1, LA | Sony Cine
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
@@ -94,9 +94,6 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
  
 # --------------- Retro tv -------------------------
 
-#EXTINF:-1 tvg-logo="", PR | ACS Network
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
-
 #EXTINF:-1 tvg-logo="", LA | Retro Plus Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w627481903.m3u8
  
@@ -111,6 +108,9 @@ https://video20.klm99.com:3558/live/teleredlive.m3u8
  
 #EXTINF:-1 tvg-logo="", CR | Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
+
+#EXTINF:-1 tvg-logo="", PR | ACS Network
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
  
  
 # --------------------------------------------------
@@ -118,8 +118,7 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
 # ------------ Culturales -------------
  
 #EXTINF:-1 tvg-logo="", Pluto tv Ciencia
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a75c3503-789a-4528-a59e-15ba63900445&clientModelNumber=na&deviceDNT=false&deviceId=a75c3503-789a-4528-a59e-15ba63900445&deviceLat=-20.2234&deviceLon=-70.1456&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.72&marketingRegion=VE&serverSideAds=true&sessionID=6a0c896a-7d52-11eb-b762-0242ac110002&sid=6a0c896a-7d52-11eb-b762-0242ac110002&userId=
-#http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=unknown&deviceId=unknown
+plugin://plugin.video.plutotv/play/live/5dd8364ea1d6780009929902
 
 #EXTINF:-1 tvg-logo="", AR | Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w2123580557.m3u8
@@ -246,19 +245,18 @@ https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w155594006.m3u8
 #EXTINF:-1 tvg-logo="", South Park 24/7
 plugin://plugin.video.plutotv/play/live/609ae5cd48d3200007b0a98e
 
+#EXTINF:-1 tvg-logo="", La familia del barrio 24/7
+plugin://plugin.video.plutotv/play/live/62d08af527ce19000731eaa0
+
 #EXTINF:-1 tvg-logo="", US | Sony comedias
 https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
  
 # --------------------------------------------------
 
 # -------------- Gamer y Animación ------------------
- 
-#EXTINF:-1,Level up
-https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195/variant/22099553.m3u8
-##https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195.m3u8
 
-#EXTINF:-1 tvg-logo="", VE | Esports max
-http://vcpar.myplaytv.com/esportsmax/live/chunklist_w1720451177.m3u8
+#EXTINF:-1 tvg-logo="", Moni tv
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1067083774.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Energeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
@@ -305,6 +303,9 @@ https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w46116948.m3u8
 #EXTINF:-1 tvg-logo="", PA | Dreiko TV
 https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
 
+#EXTINF:-1 tvg-logo="", Retro Kids
+https://maxicba.ddns.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="", Variedtv
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
  
@@ -323,8 +324,17 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_5.m3u8
 #EXTINF:-1 tvg-logo="", Toons Goggles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
-#EXTINF:-1 tvg-logo="", Moni tv
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1067083774.m3u8
+#EXTINF:-1 tvg-logo="", Callou 24/7
+https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Level up
+https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195/variant/22099553.m3u8
+##https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195.m3u8
+
+#EXTINF:-1 tvg-logo="", VE | Esports max
+http://vcpar.myplaytv.com/esportsmax/live/chunklist_w1720451177.m3u8
+
+
  
 # -----------------------------------------------
  
@@ -1152,7 +1162,10 @@ https://vcp3.myplaytv.com/trv/trv/chunklist_w1502862757.m3u8
  
  
 # ----------------- Lifestyle ------------------------
- 
+
+#EXTINF:-1 tvg-logo="", Gran Hermano 24/7
+plugin://plugin.video.plutotv/play/live/6320ddef274b1b0007b2ee88
+
 #EXTINF:-1 tvg-logo="", US | Tastemade esp
 https://tastemade-es8intl-roku.amagi.tv/playlist720lp.m3u8
  
@@ -1430,11 +1443,20 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 # ----------- Plex - Roku - Vix - Canela -------------
 # ------------------- + Pelis ---------------------------
 
-#EXTINF:-1 tvg-logo="", Pluto tv Cine Comedia
-plugin://plugin.video.plutotv/play/live/5dcdde78f080d900098550e4
+#EXTINF:-1 tvg-logo="", Pluto tv Cine Estelar
+plugin://plugin.video.plutotv/play/live/5dcde437229eff00091b6c30
 
 #EXTINF:-1 tvg-logo="", Pluto tv Estrellas de accion
 plugin://plugin.video.plutotv/play/live/5e972a21ad709d00074195ba
+
+#EXTINF:-1 tvg-logo="", Pluto tv Cine Comedia
+plugin://plugin.video.plutotv/play/live/5dcdde78f080d900098550e4
+
+#EXTINF:-1 tvg-logo="", Pluto tv Terror
+plugin://plugin.video.plutotv/play/live/5dcddf1ed95e740009fef7ab
+
+#EXTINF:-1 tvg-logo="", Pluto tv Sci-Fi
+plugin://plugin.video.plutotv/play/live/5f2817d3d7573a00080f9175
 
 #EXTINF:-1,RUNTIME MX
 https://runtimemx-samsungmx.amagi.tv/playlist720p.m3u8
