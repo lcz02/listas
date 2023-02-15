@@ -16,6 +16,9 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #http://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live-audio_1=128000-video=2800000.m3u8
 
+#EXTINF:-1 tvg-logo="", AR | El trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
+
 ##EXTINF:-1 tvg-logo="", AR | Cine ar
 ##https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3u8
 
@@ -93,13 +96,8 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1293437143.m3u8
 #EXTINF:-1 tvg-logo="", AR | Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-logo="", Sun channel
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sun-channel/3857db79-9574-43d6-8e94-f7d4a58efa00/0.m3u8
+#EXTINF:-1 tvg-logo="", Gran Hermano 24/7
+https://siloh.pluto.tv/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
  
 # --------------------------------------------------------
  
@@ -1470,7 +1468,7 @@ plugin://plugin.video.plutotv/play/live/5dcddf1ed95e740009fef7ab
 plugin://plugin.video.plutotv/play/live/5f2817d3d7573a00080f9175
 
 #EXTINF:-1 tvg-logo="", Flou Cine
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/323c6ec1-b0f1-46e0-b5b8-f434ccafc6b3/2.m3u8
+https://flou-floucine-distrotv.amagi.tv/playlist1080-p.m3u8
 
 #EXTINF:-1,Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_5.m3u8
