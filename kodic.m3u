@@ -363,13 +363,19 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1774784638.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | 5 Tigre
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
- 
-##EXTINF:-1 tvg-logo="", AR | C5 Tucuman
-##https://videohd.live:19360/8090/8090.m3u8
+
+##EXTINF:-1 tvg-logo="", AR | América Tuc
+##https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | C5 Tuc
+https://videohd.live:19360/8090/8090.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | 8 Tuc
+https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | 7 Salta
 https://panel.dattalive.com/8074/8074/chunklist_w404644623.m3u8
- 
+
 #EXTINF:-1 tvg-logo="", AR | 9 Litoral
 https://stream.arcast.live/ahora/ahora/chunklist_w687177475.m3u8
  
