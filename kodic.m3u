@@ -19,8 +19,8 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-logo="", AR | El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 
-##EXTINF:-1 tvg-logo="", AR | Cine ar
-##https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3u8
+#EXTINF:-1 tvg-logo="", AR | Cine ar
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3u8
 
 #EXTINF:-1, LA | Sony Cine
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
@@ -118,8 +118,8 @@ https://video20.klm99.com:3558/live/teleredlive.m3u8
 #EXTINF:-1 tvg-logo="", CR | Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
 
-#EXTINF:-1 tvg-logo="", PR | ACS Network
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+##EXTINF:-1 tvg-logo="", PR | ACS Network
+##https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
  
  
 # --------------------------------------------------
@@ -135,7 +135,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w212358055
 #EXTINF:-1 tvg-logo="", AR | TEC
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
  
-#EXTINF:-1 tvg-logo="", AR | Mirador
+#EXTINF:-1 tvg-logo="", AR | Aunar
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Litus TV
@@ -150,17 +150,11 @@ https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 #EXTINF:-1 tvg-logo="", PY | Educanal
 https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w92056851.m3u8
  
-#EXTINF:-1 tvg-logo="", PR | wipr
-https://streamwipr.pr/hls/wipr/index.m3u8
- 
 #EXTINF:-1 tvg-logo="", BO | Bolivia tv 2
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w241301408.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | 13 Cultura
 https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="", CL | Ceac
-https://hd.chileservidores.cl:1936/ceactv/ceactv/chunklist_w1984333120.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Chilevisión contigo
 https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master_1.m3u8
@@ -170,9 +164,6 @@ https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Hipertv
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="", CL | Tevex
-https://v4.tustreaming.cl/tevexinter/index.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | UCV 2
 https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
@@ -191,10 +182,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w1989
  
 #EXTINF:-1 tvg-logo="", AR | TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
- 
-#EXTINF:-1 tvg-logo="", AR | UTN tv
-https://5975e06a1f292.streamlock.net:4443/utntv/utntv/chunklist_w1259118686.m3u8
- 
+
 #EXTINF:-1 tvg-logo="", AR | UNaM tv
 http://192.100.186.53:8090/hls/live.stream.m3u8
  
@@ -220,11 +208,7 @@ https://unlimited1-us.dps.live/uatv/uatv.smil/uatv/livestream1/chunks.m3u8
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/uchiletv/livestream2/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="", HN | Campus tv
-http://st2.worldkast.com/8004/8004/chunklist_w1857641611.m3u8
- 
-#EXTINF:-1 tvg-logo="", CA | Love nature
-https://linear-390.frequency.stream/390/hls/master/playlist_1024x576.m3u8
-#https://bamus-spa-roku.amagi.tv/playlist720-lp.m3u8
+https://5e85d90130e77.streamlock.net/6052/6052/chunklist_w2127210416.m3u8
  
 #EXTINF:-1,Saber mas
 https://sabermas-distro.amagi.tv/SaberMas-xumo/master_5.m3u8
@@ -276,6 +260,12 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
 #EXTINF:-1 tvg-logo="", CL | Energeek Animate
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="", Xtrema Anime
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/chunklist_w1525675350.m3u8
+
+#EXTINF:-1 tvg-logo="", Xtrema Retro Cartoons
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/chunklist_w893116516.m3u8
+
 #EXTINF:-1 tvg-logo="", LA | Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
@@ -310,10 +300,7 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w231877540.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w46116948.m3u8
  
 #EXTINF:-1 tvg-logo="", PA | Dreiko TV
-https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
-
-#EXTINF:-1 tvg-logo="", Retro Kids
-https://maxicba.ddns.net/hls/stream.m3u8
+https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="", Variedtv
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
@@ -366,6 +353,9 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 ##EXTINF:-1 tvg-logo="", AR | América Tuc
 ##https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | 2 Solive Tuc
+https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | C5 Tuc
 https://videohd.live:19360/8090/8090.m3u8
@@ -1515,6 +1505,16 @@ https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1,Film Stream
 https://siloh-latam-aka.plutotv.net/lilo/production/Filmstream/LATAM/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="", Xtrema Cine Terror
+https://stmv1.cnarlatam.com/cineterror/cineterror/chunklist_w2112576709.m3u8
+
+#EXTINF:-1 tvg-logo="", Xtrema Cine Comedia
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/chunklist_w1658018188.m3u8
+
+#EXTINF:-1 tvg-logo="", Xtrema Cine Family
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/chunklist_w1331328207.m3u8
+
  
 
  
