@@ -96,7 +96,7 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1293437143.m3u8
 #EXTINF:-1 tvg-logo="", AR | Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
-#EXTINF:-1 tvg-logo="", Gran Hermano 24/7
+#EXTINF:-1 tvg-logo="", AR | Gran Hermano 24/7
 https://siloh.pluto.tv/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
  
 # --------------------------------------------------------
@@ -118,8 +118,8 @@ https://video20.klm99.com:3558/live/teleredlive.m3u8
 #EXTINF:-1 tvg-logo="", CR | Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
 
-##EXTINF:-1 tvg-logo="", PR | ACS Network
-##https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+#EXTINF:-1 tvg-logo="", PR | ACS Network
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
  
  
 # --------------------------------------------------
@@ -127,7 +127,8 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
 # ------------ Culturales -------------
  
 #EXTINF:-1 tvg-logo="", Pluto tv Ciencia
-plugin://plugin.video.plutotv/play/live/5dd8364ea1d6780009929902
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7DY&profileLimit=&profileFloor=
+#plugin://plugin.video.plutotv/play/live/5dd8364ea1d6780009929902
 
 #EXTINF:-1 tvg-logo="", AR | Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w2123580557.m3u8
@@ -1496,6 +1497,9 @@ https://linear-304.frequency.stream/304/hls/master/playlist_1024x576.m3u8
  
 #EXTINF:-1, Cindie lite
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=871
+
+#EXTINF:-1, Canela tv
+https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b6l452oz4jqa1-ssai-prd/ctsa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
  
 #EXTINF:-1, Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
@@ -1562,6 +1566,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="", US | Pluto tv Deportes
+http://siloh-fs.plutotv.net/lilo/production/CopaLibertadores/ROLA/24-7/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Telefe Deportes
 https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/ARG/24-7/master_1.m3u8
