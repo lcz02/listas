@@ -49,7 +49,7 @@ https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
 #EXTINF:-1, LA | Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 
-#EXTINF:-1 tvg-logo="", DO | US | Sol tv
+#EXTINF:-1 tvg-logo="", US | Sol tv
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/chunklist_w384205046_b2723840.m3u8
 
 #EXTINF:-1 tvg-logo="", DO | Mega Cine tv
@@ -87,7 +87,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 ##EXTINF:-1 tvg-logo="", AR | Bayres tv
 ##https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-EXTINF:-1 tvg-logo="", AR | Maxima tv
+#EXTINF:-1 tvg-logo="", AR | Maxima tv
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Retro play tv
