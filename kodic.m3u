@@ -1,7 +1,7 @@
 #EXTM3U
  
 # --- Lista latinoamericana para pvr iptvsimple de Kodi ----
-# --- Actualizada 26/1/23 ---
+# --- Actualizada 15/4/23 ---
 # --- Haciendo click en RAW obtienes la url en formato correcto ---
  
 # -------------- Selección ---------------------
@@ -25,6 +25,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3
 #EXTINF:-1, LA | Sony Cine
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="", CL | Planetatv movies
+https://scl.edge.grupoz.cl/movie/live/chunklist_w12926219.m3u8
+
 #EXTINF:-1, LA | Runtime Peliculas
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
 
@@ -46,14 +49,8 @@ https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
 #EXTINF:-1, LA | Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | Planetatv movies
-https://scl.edge.grupoz.cl/movie/live/chunklist_w12926219.m3u8
- 
 #EXTINF:-1 tvg-logo="", DO | Mega Cine tv
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
- 
-#EXTINF:-1 tvg-logo="", PE | Cine club
-https://servilive.com:3176/live/cineclublive.m3u8
 
 #EXTINF:-1 tvg-logo="", PE | Bella Asunción
 https://tvdatta.com:3602/stream/play.m3u8
@@ -67,15 +64,15 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w397291135.m3u8
 #EXTINF:-1 tvg-logo="", US | Frecuencia musical tv
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w2059994924.m3u8
 
+#EXTINF:-1 tvg-logo="", DO | Tigueritos
+https://ss9.domint.net:3012/ttv_str/tigueritotv/chunklist_w1066358019.m3u8
+
 #EXTINF:-1, MX | Free tv
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 
 #EXTINF:-1, LA | Cortos
 https://amc-cortos-1-us.plex.wurl.tv/6b2d27316f6db09cd580f408e7652200.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | UCV
-https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
- 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -84,8 +81,8 @@ https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u
 #EXTINF:-1 tvg-logo="", RU | RT esp
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Bayres tv
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+##EXTINF:-1 tvg-logo="", AR | Bayres tv
+##https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Retro play tv
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
@@ -99,9 +96,6 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1293437143.m3u8
 #EXTINF:-1 tvg-logo="", AR | Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Gran Hermano 24/7
-https://siloh.pluto.tv/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
- 
 # --------------------------------------------------------
  
 # --------------- Retro tv -------------------------
@@ -137,55 +131,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w212358055
  
 #EXTINF:-1 tvg-logo="", AR | TEC
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
- 
-#EXTINF:-1 tvg-logo="", AR | Aunar
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="", AR | Litus TV
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/chunklist_w1200864970_b1531904.m3u8
- 
-#EXTINF:-1 tvg-logo="", AR | Santa Fe Canal
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
- 
-#EXTINF:-1 tvg-logo="", AR | Veo Santa Fe
-https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
- 
-#EXTINF:-1 tvg-logo="", PY | Educanal
-https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w92056851.m3u8
- 
-#EXTINF:-1 tvg-logo="", BO | Bolivia tv 2
-https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w241301408.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | 13 Cultura
-https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | Chilevisión contigo
-https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master_1.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | Cultura online
-https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
- 
-#EXTINF:-1 tvg-logo="", CL | Hipertv
-https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="", CL | UCV 2
-https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="", CL | Juntos tv
-https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
-
-#EXTINF:-1 tvg-logo="", CO | Canal Capital
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-
-#EXTINF:-1 tvg-logo="", CO | Zoom
-https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
-
-#EXTINF:-1 tvg-logo="", MX | Justicia TV
-https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="", MX | Canal 22
-https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w1989185983_b1428000_sleng.m3u8
- 
 #EXTINF:-1 tvg-logo="", AR | TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
@@ -194,9 +140,33 @@ http://192.100.186.53:8090/hls/live.stream.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Xama TV
 https://srs.unsj.edu.ar/live/xama.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+  
+#EXTINF:-1 tvg-logo="", AR | Santa Fe Canal
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
  
-#EXTINF:-1 tvg-logo="", BO | TVU
-http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w2796235.m3u8
+#EXTINF:-1 tvg-logo="", AR | Veo Santa Fe
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="", BO | Bolivia tv 2
+https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w241301408.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | 13 Cultura
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Hipertv
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | UCV
+https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | UCV 2
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="", CL | Juntos tv
+https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | UMAG tv
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/chunklist_w1940380811_b1667072.m3u8
@@ -209,7 +179,25 @@ https://unlimited1-us.dps.live/uatv/uatv.smil/uatv/livestream1/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | U Chile tv
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/uchiletv/livestream2/chunks.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", CO | Canal Capital
+https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-1500/index.m3u8
+
+#EXTINF:-1 tvg-logo="", CO | Eureka
+https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-1500/index.m3u8
+
+#EXTINF:-1 tvg-logo="", CO | Zoom
+https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+
+#EXTINF:-1 tvg-logo="", MX | Justicia TV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="", PY | Educanal
+https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w92056851.m3u8
+
+#EXTINF:-1 tvg-logo="", BO | TVU
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w2796235.m3u8
+
 #EXTINF:-1 tvg-logo="", HN | Campus tv
 https://5e85d90130e77.streamlock.net/6052/6052/chunklist_w2127210416.m3u8
  
@@ -223,9 +211,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 # ------------------ Humor ----------------------
 
-#EXTINF:-1 tvg-logo="", VE | Humor max
-http://vcpar.myplaytv.com/humormax/live/chunklist_w1313750930.m3u8
- 
 #EXTINF:-1 tvg-logo="", MX | jajaja
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
  
@@ -234,12 +219,10 @@ https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist_1024x5
  
 #EXTINF:-1 tvg-logo="", MX | Vecinos 24/7
 https://linear-314.frequency.stream/314/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", Los Simpsons 24/7
-https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w155594006.m3u8
 
 #EXTINF:-1 tvg-logo="", South Park 24/7
-plugin://plugin.video.plutotv/play/live/609ae5cd48d3200007b0a98e
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+#plugin://plugin.video.plutotv/play/live/609ae5cd48d3200007b0a98e
 
 #EXTINF:-1 tvg-logo="", La familia del barrio 24/7
 plugin://plugin.video.plutotv/play/live/62d08af527ce19000731eaa0
@@ -259,9 +242,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Energeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | Energeek Animate
-https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", Xtrema Anime
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/chunklist_w1525675350.m3u8
@@ -287,9 +267,6 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-logo="", AR | Magic kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | El magic tv
-https://stmvideo1.livecastv.com/magic-2023/magic-2023/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="", CL | Kanade
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 
@@ -303,19 +280,16 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w231877540.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w46116948.m3u8
  
 #EXTINF:-1 tvg-logo="", PA | Dreiko TV
-https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", Variedtv
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="", AR | Paka Paka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1058973886.m3u8
- 
-#EXTINF:-1 tvg-logo="", DO | Tigueritos
-https://ss9.domint.net:3012/ttv_str/tigueritotv/chunklist_w1066358019.m3u8
- 
 #EXTINF:-1 tvg-logo="", BO | Seo tv kids
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1058973886.m3u8
  
 #EXTINF:-1 tvg-logo="", Chiquilines
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_5.m3u8
@@ -349,13 +323,13 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/c
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w1458535597_b316000.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | 4 San Juan
-https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1774784638.m3u8
+http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1132387993.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | 5 Tigre
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-##EXTINF:-1 tvg-logo="", AR | América Tuc
-##https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+#EXTINF:-1 tvg-logo="", AR | América Tuc
+https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | 2 Solive Tuc
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
@@ -364,10 +338,10 @@ https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 https://videohd.live:19360/8090/8090.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | 8 Tuc
-https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+plugin://plugin.video.dailymotion_com/?url=x8hvuj5&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="", AR | 7 Salta
-https://panel.dattalive.com/8074/8074/chunklist_w404644623.m3u8
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | 9 Litoral
 https://stream.arcast.live/ahora/ahora/chunklist_w687177475.m3u8
@@ -552,13 +526,13 @@ https://master.tucableip.com/ftv/index.m3u8
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | 13 Teleseries
-https://unlimited10-cl.dps.live/13t/13t.smil/playlist.m3u8
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | 13 Entretención
-https://unlimited10-cl.dps.live/13e/13e.smil/playlist.m3u8
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | 13 Prime
-https://unlimited10-cl.dps.live/13p/13p.smil/playlist.m3u8
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Autonoma
 https://5eff35271151c.streamlock.net:1936/8144/8144/chunklist_w1448173308.m3u8
@@ -1170,9 +1144,6 @@ https://vcp3.myplaytv.com/trv/trv/chunklist_w1502862757.m3u8
  
  
 # ----------------- Lifestyle ------------------------
-
-#EXTINF:-1 tvg-logo="", Gran Hermano 24/7
-plugin://plugin.video.plutotv/play/live/6320ddef274b1b0007b2ee88
 
 #EXTINF:-1 tvg-logo="", US | Tastemade esp
 https://tastemade-es8intl-roku.amagi.tv/playlist720lp.m3u8
