@@ -49,6 +49,9 @@ https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
 #EXTINF:-1, LA | Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 
+#EXTINF:-1 tvg-logo="", DO | US | Sol tv
+https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/chunklist_w384205046_b2723840.m3u8
+
 #EXTINF:-1 tvg-logo="", DO | Mega Cine tv
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
@@ -83,6 +86,9 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
 ##EXTINF:-1 tvg-logo="", AR | Bayres tv
 ##https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+EXTINF:-1 tvg-logo="", AR | Maxima tv
+https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Retro play tv
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
@@ -533,6 +539,12 @@ https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | 13 Prime
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | 13 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | T13
+https://unlimited1-us.dps.live/t13/t13.smil/t13/livestream1/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Autonoma
 https://5eff35271151c.streamlock.net:1936/8144/8144/chunklist_w1448173308.m3u8
@@ -542,6 +554,9 @@ https://unlimited6-cl.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/ch
  
 #EXTINF:-1 tvg-logo="", CL | Contivision
 https://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | La Red
+https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
@@ -935,7 +950,7 @@ https://v4.tustreaming.cl/bellatv/index.m3u8
  
 #EXTINF:-1 tvg-logo="", PE | BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w1181359392.m3u8
- 
+
 #EXTINF:-1 tvg-logo="", PE | CCN
 https://tv.inka.net.pe/cntv/index.m3u8
  
@@ -953,6 +968,9 @@ https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", PE | Creo tv
 https://srv1.mediastreamperu.com:8081/creotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", PE | E Altomayo
+https://stream.plixitv.live/westv/westv/chunklist_w1681420864.m3u8
  
 #EXTINF:-1 tvg-logo="", PE | Super tv
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
@@ -1394,6 +1412,9 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w10192049.m3u8
 # ---------------------------------------------
  
 # -------------- Novelas ----------------------
+
+#EXTINF:-1, Televisa
+https://televisa-televisa-1-it.samsung.wurl.tv/2000.m3u8
  
 ##EXTINF:-1, La rosa de Guadalupe
 ##https://linear-344.frequency.stream/344/hls/master/playlist_1024x576.m3u8
@@ -1499,7 +1520,10 @@ https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/chunklist_w1331328207.m3u8
 
  
 # -------------------------------------------------------
- 
+
+#EXTINF:-1 tvg-logo="", US | Nasa tv (eng)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
 # -------------- Deportes -----------------
 
 #EXTINF:-1 tvg-logo="", PE | Contacto deportivo
