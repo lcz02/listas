@@ -13,15 +13,17 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | El nueve
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-#http://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live-audio_1=128000-video=2800000.m3u8
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live-audio_1=128000-video=2800000.m3u8
+#https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Cine ar
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3u8
-
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-logo="", AR | TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
@@ -52,6 +54,9 @@ https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
 #EXTINF:-1, LA | Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 
+#EXTINF:-1, CL | Terror tv
+https://tv.streaming-chile.com:1936/8140/8140/chunklist_w1158724473.m3u8
+
 #EXTINF:-1 tvg-logo="", US | Sol tv
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/chunklist_w384205046_b2723840.m3u8
 
@@ -64,20 +69,17 @@ https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png", DO | Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="", BO | Cinerama
-https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w397291135.m3u8
-
-#EXTINF:-1 tvg-logo="", US | Frecuencia musical tv
-https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w2059994924.m3u8
-
-#EXTINF:-1 tvg-logo="", DO | Tigueritos
-https://ss9.domint.net:3012/ttv_str/tigueritotv/chunklist_w1066358019.m3u8
+##EXTINF:-1 tvg-logo="", BO | Cinerama
+##https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w397291135.m3u8
 
 #EXTINF:-1, MX | Free tv
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 
 #EXTINF:-1, LA | Cortos
 https://amc-cortos-1-us.plex.wurl.tv/6b2d27316f6db09cd580f408e7652200.m3u8
+
+##EXTINF:-1 tvg-logo="", AR | Cine ar
+##https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w150263668.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -734,7 +736,10 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w1731541229.m3u8
  
 #EXTINF:-1 tvg-logo="", DO | Teleuniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", DO | Tigueritos
+https://ss9.domint.net:3012/ttv_str/tigueritotv/chunklist_w1066358019.m3u8
+
 #EXTINF:-1 tvg-logo="", DO | TNI
 https://ss5.domint.net:3188/tni_str/tni51/chunklist_w632238284.m3u8
  
