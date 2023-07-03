@@ -57,6 +57,9 @@ https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 #EXTINF:-1, CL | Terror tv
 https://tv.streaming-chile.com:1936/8140/8140/chunklist_w1158724473.m3u8
 
+#EXTINF:-1 tvg-logo="", CL | +Cine
+https://tv.streaming-chile.com:1936/8142/8142/chunklist_w1087029241.m3u8
+
 #EXTINF:-1 tvg-logo="", US | Sol tv
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/chunklist_w384205046_b2723840.m3u8
 
@@ -131,7 +134,6 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
 
 #EXTINF:-1 tvg-logo="", PR | ACS Network
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
- 
  
 # --------------------------------------------------
 
@@ -228,18 +230,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 tvg-logo="", MX | jajaja
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="", MX | Familia P.Luche 24/7
-https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", MX | Vecinos 24/7
-https://linear-314.frequency.stream/314/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="", El chavo plus
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", South Park 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#plugin://plugin.video.plutotv/play/live/609ae5cd48d3200007b0a98e
-
-#EXTINF:-1 tvg-logo="", La familia del barrio 24/7
-plugin://plugin.video.plutotv/play/live/62d08af527ce19000731eaa0
 
 #EXTINF:-1 tvg-logo="", US | Sony comedias
 https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
@@ -289,6 +284,9 @@ https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
  
 #EXTINF:-1 tvg-logo="", UY | Latino kids tv
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w231877540.m3u8
+
+#EXTINF:-1 tvg-logo="", Supercampeones 24/7
+http://51.159.104.29:8080/Supercampeones/index.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Planetatv kids
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w46116948.m3u8
@@ -886,10 +884,13 @@ https://stmv1.zcastbr.com/roatanhableclaro/roatanhableclaro/chunklist_w489793922
  
 #EXTINF:-1 tvg-logo="", HN | TV Copan
 https://emisoras.hn:8081/tvcopan/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="", MX | 9 CDMX
-https://linear-352.frequency.stream/352/hls/master/playlist_1280x720.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", MX | Azteca Internacional
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="", MX | Azteca Corazon
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
 #EXTINF:-1 tvg-logo="", MX | 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1997432437.m3u8
  
@@ -1135,6 +1136,12 @@ https://stream.rpc.com.py/live/trece_src.m3u8
  
 #EXTINF:-1 tvg-logo="", PY | Ñanduti tv
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
+
+#EXTINF:-1 tvg-logo="", SV | CANAL 2
+https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-audio_0=64000-video=2000000.m3u8
+
+#EXTINF:-1 tvg-logo="", SV | CANAL 6
+https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-audio_0=64000-video=2000000.m3u8
  
 #EXTINF:-1 tvg-logo="", SV | Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w634062387.m3u8
@@ -1245,7 +1252,8 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w975462523.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
  
 #EXTINF:-1 tvg-logo="", ES | Euronews
-https://siloh-ns1.plutotv.net/lilo/production/Euronews/master_1.m3u8
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
+#https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Cronica
 https://g2.vxral-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8|Referer=https://vmf.edge-apps.net
@@ -1257,7 +1265,7 @@ https://g2.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1511621474_b2628000_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | TN
-plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | IP
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
@@ -1267,9 +1275,6 @@ https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-vid
 
 #EXTINF:-1 tvg-logo="", MX | Univision noticias
 https://linear-306.frequency.stream/306/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1 tvg-logo="", MX | Estrella news
-https://siloh-aka.plutotv.net/lilo/production/EstrellaNews/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="", PR | Telemundo noticias
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
@@ -1540,16 +1545,14 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1 tvg-logo="", PE | Contacto deportivo
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-logo="", BO | Deporte total play
-https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
- 
+#EXTINF:-1 tvg-logo="", SV | TCS+
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
+
+#EXTINF:-1 tvg-logo="", Tigo Sports GT
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3u8
+
 #EXTINF:-1 tvg-logo="", PE | Best cable Sports
-https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Garage tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w867902640_b1296000_sleng.m3u8
@@ -1559,27 +1562,18 @@ https://siloh-latam-aka.plutotv.net/lilo/production/FuelTV/LATAM/master_2.m3u8
  
 #EXTINF:-1 tvg-logo="", ES | Real Madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-  
-#EXTINF:-1 tvg-logo="", CR | MZ Sports
-https://video.misistemareseller.com/mzsports/mzsports/chunklist_w340635633.m3u8
  
-#EXTINF:-1 tvg-logo="", MX | Lo mejor de la Liga MX
-https://linear-193.frequency.stream/193/hls/master/playlist_1280x720.m3u8
-
-#EXTINF:-1 tvg-logo="", Liga MX
-https://linear-452.frequency.stream/452/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1, IT | Sportitalia Solocalcio
-https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8
+#EXTINF:-1, IT | Sportitalia
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Deport tv
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Telefe Deportes
-https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/ARG/24-7/master_1.m3u8
+https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Tyc Play 1
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_14.m3u8
@@ -1599,13 +1593,6 @@ https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 #EXTINF:-1 tvg-logo="", AR | Tyc Play 6
 https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index_14.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-logo="", AR | City Sports
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 
 # -----------------------------------------------
  
