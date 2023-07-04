@@ -92,11 +92,8 @@ https://amc-cortos-1-us.plex.wurl.tv/6b2d27316f6db09cd580f408e7652200.m3u8
 #EXTINF:-1 tvg-logo="", RU | RT esp
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Dity tv
+#EXTINF:-1 tvg-logo="", AR | Diti tv
 https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
-
-#EXTINF:-1 tvg-logo="", AR | Bayres tv
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Maxima tv
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
@@ -172,17 +169,11 @@ https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w241301408.m3u8
 #EXTINF:-1 tvg-logo="", CL | 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | Hipertv
-https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="", CL | UCV
-https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | UCV 2
-https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="", CL | Juntos tv
-https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
+https://unlimited6-cl.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | UMAG tv
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/chunklist_w1940380811_b1667072.m3u8
@@ -1221,7 +1212,15 @@ https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist1080_p.m3u8
 # ----------------------------------------
  
 # --------------- España --------------------
- 
+#EXTINF:-1 tvg-logo="", ES | DMax
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="", ES | Be Mad
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="", ES | Mega ES
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="", ES | A3Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
  
@@ -1238,9 +1237,11 @@ https://media2.streambrothers.com:1936/8150/8150/chunklist_w489685035.m3u8
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
  
 #EXTINF:-1 tvg-logo="", ES | Mijas 3.40 tv
-https://d1o1m0b8hn74yt.cloudfront.net/out/v1/dcd3c3ade6994cc9ba1f6e534ff4d1e8/index_1.m3u8
- 
- 
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+
+#EXTINF:-1 tvg-logo="", ES | La 1
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
+
 # ------------------------------------------------
  
 # ---------- Noticias --------------------
@@ -1265,7 +1266,7 @@ https://g2.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1511621474_b2628000_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | TN
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+https://live-01-01-tn.vodgc.net/TN24/tracks-v4a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | IP
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
@@ -1477,8 +1478,11 @@ plugin://plugin.video.plutotv/play/live/5dcddf1ed95e740009fef7ab
 #EXTINF:-1 tvg-logo="", Pluto tv Sci-Fi
 plugin://plugin.video.plutotv/play/live/5f2817d3d7573a00080f9175
 
-#EXTINF:-1 tvg-logo="", Flou Cine
-https://flou-floucine-distrotv.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-logo="", MacGyver 24/7
+plugin://plugin.video.plutotv/play/live/63eb95baa99571000898a078
+
+#EXTINF:-1 tvg-logo="", Pluto tv Misterios
+plugin://plugin.video.plutotv/play/live/5dcde2f53449c50009b2b4dc
 
 #EXTINF:-1,Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_5.m3u8
