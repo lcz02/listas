@@ -98,7 +98,7 @@ https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 #EXTINF:-1 tvg-logo="", AR | Maxima tv
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | Retro play tv
+#EXTINF:-1 tvg-logo="", CL |  play tv
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | VClassic tv
@@ -218,14 +218,16 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 # ------------------ Humor ----------------------
 
-#EXTINF:-1 tvg-logo="", MX | jajaja
+#EXTINF:-1 tvg-logo="", MX | Vix jajaja
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", El chavo plus
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", South Park 24/7
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+plugin://plugin.video.plutotv/play/live/609ae5cd48d3200007b0a98e
+#http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
 
 #EXTINF:-1 tvg-logo="", US | Sony comedias
 https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
@@ -755,21 +757,9 @@ https://streamingwowza.com:1936/wuanplus/wuanplus/chunklist_w1404866794.m3u8
  
 #EXTINF:-1 tvg-logo="", EC | Zaracay tv
 https://streamingwowza.com:19360/zaracaytv/zaracaytv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal3_super_canal.png", GT | Canal 3 Guatemala
-https://dslvfq5ee0geu.cloudfront.net/hls/canal3_480.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/televisiete-gt.png", GT | Televisiete
-https://dslvfq5ee0geu.cloudfront.net/hls/canal7_480.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tn23-gt.png", GT | TN 23
-https://dslvfq5ee0geu.cloudfront.net/hls/canal23_480.m3u8
- 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/guatevision-mediano.png", GT | Guatevision
-https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/live-audio_track_0_0_und=64000-video_track=6500000.m3u8
- 
+  
 #EXTINF:-1 tvg-logo="http://tvstarlife.com:25461/images/32259e99800c467033e88bc351673349.png", GT | Canal Antigua
-https://streannlivefeedlatino.cachefly.net/feedlatino1/feedlatino1/chunks.m3u8
+https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/chunklist_w311285100_b1428000_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_tv-azteca-guatemala_m.png", GT | TV Azteca Guate
 http://45.5.117.138:25461/playgt/123456/68
@@ -878,6 +868,7 @@ https://emisoras.hn:8081/tvcopan/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", MX | Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#https://azt-mun-runtime.otteravision.com/azt/mun/mun_720p_high.m3u8
 
 #EXTINF:-1 tvg-logo="", MX | Azteca Corazon
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -1358,7 +1349,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/tiketekarg/tiketekarg/chunklist_w25748
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
  
 #EXTINF:-1 tvg-logo="", Retro Plus Musica
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w230486262.m3u8
+https://59f1cbe63db89.streamlock.net:1443/plustv/_definst_/plustv/chunklist_w230486262.m3u8
  
 #EXTINF:-1 tvg-logo="", CO | Memorias tv
 https://cloud10.vsgtech.co:3729/live/memoriastvlive.m3u8
@@ -1483,6 +1474,9 @@ plugin://plugin.video.plutotv/play/live/63eb95baa99571000898a078
 
 #EXTINF:-1 tvg-logo="", Pluto tv Misterios
 plugin://plugin.video.plutotv/play/live/5dcde2f53449c50009b2b4dc
+
+#EXTINF:-1 tvg-logo="", Pluto tv Mundo Geek
+plugin://plugin.video.plutotv/play/live/6051201a0aa8a70007c24a2a
 
 #EXTINF:-1,Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_5.m3u8
