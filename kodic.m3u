@@ -63,6 +63,9 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w1087029241.m3u8
 #EXTINF:-1 tvg-logo="", US | Sol tv
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/chunklist_w384205046_b2723840.m3u8
 
+#EXTINF:-1 tvg-logo="", US | FMTV 2
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-logo="", DO | Mega Cine tv
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
@@ -74,6 +77,9 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
  
 ##EXTINF:-1 tvg-logo="", BO | Cinerama
 ##https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w397291135.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Parentesis tv
+https://vdo.miserver.pro:3591/live/parentesistvlive.m3u8
 
 #EXTINF:-1, MX | Free tv
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
@@ -106,9 +112,13 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1993337622.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | VClassic tv tropical
 https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1293437143.m3u8
- 
+
 #EXTINF:-1 tvg-logo="", AR | Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | RTN Neuquen
+http://media.neuquen.gov.ar/rtn/television/chunklist_w759167192.m3u8
+ 
 
 # --------------------------------------------------------
  
@@ -131,6 +141,9 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
 
 #EXTINF:-1 tvg-logo="", PR | ACS Network
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Classic Channel
+https://paneltv.online:1936/8046/8046/chunklist_w1935613732.m3u8
  
 # --------------------------------------------------
 
@@ -268,18 +281,9 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Magic kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | Kanade
-https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
-
-#EXTINF:-1 tvg-logo="", Anime Station
-https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
  
 #EXTINF:-1 tvg-logo="", UY | Latino kids tv
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w231877540.m3u8
-
-#EXTINF:-1 tvg-logo="", Supercampeones 24/7
-http://51.159.104.29:8080/Supercampeones/index.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Planetatv kids
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w46116948.m3u8
@@ -304,6 +308,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
 #EXTINF:-1 tvg-logo="", Callou 24/7
 https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Pitufos
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1,Level up
 https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195/variant/22099553.m3u8
@@ -550,6 +557,9 @@ https://5eff35271151c.streamlock.net:1936/8144/8144/chunklist_w1448173308.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | 2 Quellon
 https://unlimited6-cl.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Apanines tv
+https://inliveserver.com:1936/10010/10010/chunklist_w1343664420.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Contivision
 https://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8
@@ -571,9 +581,15 @@ https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream2/ch
  
 #EXTINF:-1 tvg-logo="", CL | 74
 https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w303325137.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | C30 Loncomilla
+https://v1.tustreaming.cl:19360/canal30loncomilla/canal30loncomilla.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Club tv
 https://mediacpstreamchile.com:1936/clubtv/clubtv/chunklist_w1278329990.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Marga Marga tv
+https://v1.tustreaming.cl/margamargatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Soberania
 https://tls-cl.cdnz.cl/radiosoberania/live/chunklist_w1923164494.m3u8
@@ -616,6 +632,9 @@ https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
  
 #EXTINF:-1 tvg-logo="", CO | Cosmovision
 https://videohls2.cosmovision.tv/hls/sd_480p1128kbs/index.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Limache movil
+https://v4.tustreaming.cl/limachemovil/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", CO | Multicanal televisión
 https://cloud2.streaminglivehd.com:1936/8010/8010/chunklist_w809078802.m3u8
@@ -1196,6 +1215,9 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/4300.m3u8
 
 #EXTINF:-1 tvg-logo="", CO | RCN extra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", ES | Love Magazine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", ES | Explore
 https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist1080_p.m3u8
@@ -1232,6 +1254,9 @@ https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 
 #EXTINF:-1 tvg-logo="", ES | La 1
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="", ES | Movies Central
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8
 
 # ------------------------------------------------
  
@@ -1421,26 +1446,14 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w10192049.m3u8
  
 # -------------- Novelas ----------------------
 
+#EXTINF:-1 tvg-logo="", ES | Novelas en español
+https://stormcast-novelas-2-es.samsung.wurl.tv/3000.m3u8
+
 #EXTINF:-1, Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/2000.m3u8
- 
-##EXTINF:-1, La rosa de Guadalupe
-##https://linear-344.frequency.stream/344/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1, Como dice el dicho
-https://linear-341.frequency.stream/dist/roku/341/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1, Las 3 Marias
-https://linear-328.frequency.stream/dist/localnow/328/hls/master/playlist_1024x576.m3u8
- 
-#EXTINF:-1, Novelas romance
-https://linear-194.frequency.stream/194/hls/master/playlist_1280x720.m3u8
- 
-#EXTINF:-1, Novelas de oro
-https://linear-196.frequency.stream/196/hls/master/playlist_1280x720.m3u8
- 
-#EXTINF:-1, RCTV
-https://linear-334.frequency.stream/334/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1 tvg-logo="", Kanal D Drama
+https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
  
 #EXTINF:-1, BO | Seo tv novelas
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
@@ -1474,9 +1487,6 @@ plugin://plugin.video.plutotv/play/live/63eb95baa99571000898a078
 
 #EXTINF:-1 tvg-logo="", Pluto tv Misterios
 plugin://plugin.video.plutotv/play/live/5dcde2f53449c50009b2b4dc
-
-#EXTINF:-1 tvg-logo="", Pluto tv Mundo Geek
-plugin://plugin.video.plutotv/play/live/6051201a0aa8a70007c24a2a
 
 #EXTINF:-1,Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_5.m3u8
@@ -1568,7 +1578,7 @@ https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Telefe Deportes
 https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master_1.m3u8
