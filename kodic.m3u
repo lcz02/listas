@@ -96,6 +96,9 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3
 #EXTINF:-1 tvg-logo="", RU | RT esp
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
+#EXTINF:-1 tvg-logo="", MX | Las Estrellas
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+
 #EXTINF:-1 tvg-logo="", AR | Diti tv
 https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 
@@ -254,11 +257,17 @@ https://live-01-01-tn.vodgc.net/TN24/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-logo="", AR | IP
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
  
-##EXTINF:-1 tvg-logo="", LA | Telesur
-##https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="", LA | Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="", US | CNN Samsung
+https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="", PR | Telemundo noticias
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+
+#EXTINF:-1 tvg-logo="", MX | N+
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_5.m3u8
  
 # -----------------------------------------------
 
