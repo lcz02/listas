@@ -86,15 +86,6 @@ https://amc-cortos-1-us.plex.wurl.tv/6b2d27316f6db09cd580f408e7652200.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Cine ar
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3u8
-#https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-logo="", RU | RT esp
-https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
 #EXTINF:-1 tvg-logo="", MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
@@ -117,8 +108,8 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1293437143.m3u8
 #EXTINF:-1 tvg-logo="", AR | Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | RTN Neuquen
-http://media.neuquen.gov.ar/rtn/television/chunklist_w759167192.m3u8
+#EXTINF:-1 tvg-logo="", CL | Zoom back
+https://panel.miplay.cl:8081/zoomback/tracks-v1a1/mono.m3u8
  
 
 # --------------------------------------------------------
@@ -180,6 +171,9 @@ https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w241301408.m3u8
 #EXTINF:-1 tvg-logo="", CL | 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
+#EXTINF:-1 tvg-logo="", CL | Tevex
+https://panel.miplay.cl:8081/tevex/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="", CL | UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
 
@@ -225,6 +219,9 @@ https://5e85d90130e77.streamlock.net/6052/6052/chunklist_w2127210416.m3u8
 #EXTINF:-1,Saber mas
 https://sabermas-distro.amagi.tv/SaberMas-xumo/master_5.m3u8
 
+#EXTINF:-1 tvg-logo="", Nature time esp
+https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist720-lp.m3u8
+
 #EXTINF:-1 tvg-logo="", DE | Deutsche Welle esp
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
  
@@ -234,23 +231,33 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 #EXTINF:-1 tvg-logo="", US | América teve
 https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w975462523.m3u8
+
+#EXTINF:-1 tvg-logo="", FR | France 24 esp
+https://panel.miplay.cl:8081/france24/tracks-v1a1/mono.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-logo="", RU | RT esp
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
  
 #EXTINF:-1 tvg-logo="", CN | CGTN esp
 https://livees.cgtn.com/1000e/prog_index.m3u8
  
 #EXTINF:-1 tvg-logo="", ES | Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
-#https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Canal 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1511621474_b2628000_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Cronica
 https://g2.vxral-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8|Referer=https://vmf.edge-apps.net
  
 #EXTINF:-1 tvg-logo="", AR | A24
 https://g2.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8|Referer=https://vmf.edge-apps.net
- 
-#EXTINF:-1 tvg-logo="", AR | Canal 26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1511621474_b2628000_sleng.m3u8
- 
+
 #EXTINF:-1 tvg-logo="", AR | TN
 https://live-01-01-tn.vodgc.net/TN24/tracks-v4a1/mono.m3u8
  
@@ -295,6 +302,7 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1067083774.
 
 #EXTINF:-1 tvg-logo="", CL | Energeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
+#https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Energeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
@@ -355,6 +363,15 @@ https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+
+#EXTINF:-1 tvg-logo="", Gallo Claudio 24/7
+https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Los Picapiedras 24/7
+https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Tom y Jerry 24/7
+https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
 
 #EXTINF:-1,Level up
 https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195/variant/22099553.m3u8
@@ -506,6 +523,9 @@ https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Quatro tv
 https://stream.arcast.live/quatro/quatro/chunklist_w2074874609.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | RTN Neuquen
+http://media.neuquen.gov.ar/rtn/television/chunklist_w759167192.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Sicardi tv
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
@@ -577,6 +597,9 @@ http://www.channel.tevemi.com:1935/RedUno/RedUno/chunklist_w572889681.m3u8
  
 #EXTINF:-1 tvg-logo="", BO | FTV
 https://master.tucableip.com/ftv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Canal dos
+https://panel.miplay.cl:8081/dos/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Pop tv
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
@@ -603,7 +626,7 @@ https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | T13
-https://unlimited1-us.dps.live/t13/t13.smil/t13/livestream1/chunks.m3u8
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Autonoma
 https://5eff35271151c.streamlock.net:1936/8144/8144/chunklist_w1448173308.m3u8
@@ -646,6 +669,9 @@ https://v1.tustreaming.cl/margamargatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Soberania
 https://tls-cl.cdnz.cl/radiosoberania/live/chunklist_w1923164494.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Spectrum channel
+https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | TV Hits
 https://paneltv.online:1936/8156/8156/chunklist_w1621258583.m3u8
@@ -1072,6 +1098,9 @@ http://v4.tustreaming.cl/matices/index.m3u8
  
 #EXTINF:-1 tvg-logo="", PE | Master Televisión
 https://tv.oyotunstream.com:1936/master/master/chunklist_w754356243.m3u8
+
+#EXTINF:-1 tvg-logo="", PE | Mayo tv
+https://live.obslivestream.com/mayotv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", PE | Ntv
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/chunklist_w1706686235.m3u8
@@ -1096,6 +1125,9 @@ https://servilive.com:3194/live/proyectatvlive.m3u8
  
 #EXTINF:-1 tvg-logo="", PE | QTtv
 https://servilive.com:3753/live/qosqotimeslive.m3u8
+
+#EXTINF:-1 tvg-logo="", PE | Red digital tv
+https://live.obslivestream.com/reddigital/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", PE | Sanjuanera tv
 https://live.obslivestream.com/sanjuanera/tracks-v2a1/mono.m3u8
@@ -1261,6 +1293,9 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
  
 #EXTINF:-1 tvg-logo="", ES | Hola Play
 https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Ladies
+https://panel.miplay.cl:8081/ladies/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", US | Show business tv
 http://sierra-002-showbusiness.unitedteleports.tv/SIERRA/showbusinesstv-demo.m3u8
@@ -1357,6 +1392,9 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1499986465.
 
 #EXTINF:-1 tvg-logo="", Retro Plus Musica esp
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w58574717.m3u8
+
+#EXTINF:-1 tvg-logo="", PE | Vinilos tv
+https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", CO | Memorias tv
 https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
@@ -1496,8 +1534,24 @@ https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/chunklist_w1331328207.m3u8
 
 # -------------------------------------------------------
 
+# ------------------- Temporales -------------------------
+#EXTINF:-1 tvg-logo="", US | CNN esp
+https://v3.playerlatino.live/stream/m3u8/136
+
+#EXTINF:-1 tvg-logo="", US | Sony
+https://v3.playerlatino.live/stream/m3u8/145
+
+#EXTINF:-1 tvg-logo="", AR | Film & Arts
+https://v3.playerlatino.live/stream/m3u8/149
+
+#EXTINF:-1 tvg-logo="", US | SyFy
+https://v3.playerlatino.live/stream/m3u8/151
+
+# -------------------------------------------------------
+
 #EXTINF:-1 tvg-logo="", US | Nasa tv (eng)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
 
 # -------------- Deportes -----------------
 
@@ -1520,7 +1574,7 @@ https://m6gdar5eyn93-hls-live.5centscdn.com/FutvStream/a2043e93f9196f2de4487156b
 https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Garage tv
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w867902640_b1296000_sleng.m3u8
+https://stream1.sersat.com/hls/garagetv.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Fuel tv
 https://siloh-latam-aka.plutotv.net/lilo/production/FuelTV/LATAM/master_2.m3u8
