@@ -78,6 +78,15 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", CL | Parentesis tv
 https://vdo.miserver.pro:3591/live/parentesistvlive.m3u8
 
+#EXTINF:-1 tvg-logo="", CL | Super tv
+https://stmv2.zcasthn.com.br/supertv/supertv/chunklist_w1961098358.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | SPTV
+https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w2048174485.m3u8
+
+#EXTINF:-1 tvg-logo="", PR | X level tv
+https://tv.portalexpress.es:3220/stream/play.m3u8
+
 #EXTINF:-1, MX | Free tv
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 
@@ -120,7 +129,7 @@ https://panel.miplay.cl:8081/zoomback/tracks-v1a1/mono.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w627481903.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | El Palomar tv
-https://video.streamtvradio.com:8443/uv038/uv038/chunks.m3u8
+https://stream.trixserver.com:3249/live/uv038live.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1045e40ee9f9492ea5f0fbac4ae32d7d~mv2.png", GT | TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -131,11 +140,17 @@ https://video20.klm99.com:3558/live/teleredlive.m3u8
 #EXTINF:-1 tvg-logo="", CR | Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
 
+#EXTINF:-1 tvg-logo="", CR | Retrox tv
+https://tgn.bozztv.com/ssh101/ssh101/123456789/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="", PR | ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w432909749.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Classic Channel
 https://paneltv.online:1936/8046/8046/chunklist_w1935613732.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Evavision retro
+https://stmv2.zcasthn.com.br/evaretro/evaretro/chunklist_w1863633858.m3u8
  
 # --------------------------------------------------
 
@@ -158,6 +173,9 @@ http://192.100.186.53:8090/hls/live.stream.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Aunar
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Canal U
+https://stream.arcast.live/canalu/canalu/chunklist_w1140901372.m3u8
   
 #EXTINF:-1 tvg-logo="", AR | Santa Fe Canal
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
@@ -251,6 +269,9 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/f1f29e913cb79ff
 
 #EXTINF:-1 tvg-logo="", AR | Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1511621474_b2628000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Canal E
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream1/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Cronica
 https://g2.vxral-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8|Referer=https://vmf.edge-apps.net
@@ -413,6 +434,12 @@ https://videohd.live:19360/8090/8090.m3u8
 #EXTINF:-1 tvg-logo="", AR | 8 Tuc
 plugin://plugin.video.dailymotion_com/?url=x8hvuj5&mode=playLiveVideo
 
+#EXTINF:-1 tvg-logo="", AR | Calchaqui tv
+https://stream.trixserver.com:3836/live/uv068live.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Norte tv
+https://stream.trixserver.com:3326/live/uv027live.m3u8
+
 #EXTINF:-1 tvg-logo="", AR | 7 Salta
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
@@ -460,9 +487,6 @@ https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | BTV
 https://videohd.live:19360/8018/8018.m3u8
-
-#EXTINF:-1 tvg-logo="", AR | Calchaqui tv
-https://video.streamtvradio.com:8443/uv068/uv068/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Chaco tv
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w1046057439.m3u8
@@ -496,9 +520,6 @@ http://66.128.32.245/output/iteltv/track_2_4500/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Gen tv
 https://inliveserver.com:1936/14056/14056/chunklist_w1717706659.m3u8
- 
-#EXTINF:-1 tvg-logo="", AR | La voz de Tucumán
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/chunklist_w184400380.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | M
 https://videohd.live:19360/8006/8006.m3u8
@@ -519,7 +540,7 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunk
 https://video.streamtvradio.com:8443/uv027/uv027/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Panc tv
-https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
+https://stream.trixserver.com:3088/live/uv096live.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Quatro tv
 https://stream.arcast.live/quatro/quatro/chunklist_w2074874609.m3u8
@@ -544,6 +565,9 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w445172046_b18
  
 #EXTINF:-1 tvg-logo="", AR | Tiv
 https://inliveserver.com:1936/14044/14044/chunklist_w154613434.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Tves
+https://vivo.solumedia.com:19360/tves/tves.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Yapeyu Cable color
 https://videohd.live:19360/8094/8094.m3u8
@@ -672,6 +696,9 @@ https://tls-cl.cdnz.cl/radiosoberania/live/chunklist_w1923164494.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Spectrum channel
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Tv y tv
+https://stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | TV Hits
 https://paneltv.online:1936/8156/8156/chunklist_w1621258583.m3u8
@@ -1221,13 +1248,19 @@ https://tv.oyotunstream.com:1936/xtv/xtv/chunklist_w1830535672.m3u8
 
 #EXTINF:-1 tvg-logo="", PE | Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+
+#EXTINF:-1 tvg-logo="", PY | Next tv
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
  
 #EXTINF:-1 tvg-logo="", PY | Somos del este
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", PY | SNT
+https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="", PY | Suceso TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/chunklist_w1537790816.m3u8
- 
+
 #EXTINF:-1 tvg-logo="", PY | Trece
 https://stream.rpc.com.py/live/trece_src.m3u8
  
@@ -1370,6 +1403,9 @@ http://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_
  
 #EXTINF:-1 tvg-logo="", AR | Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1612340848_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Coope tv
+https://livedge-st1.video.bustream.com/coopetv/smil:rates.smil/chunklist_w112489353_b1496000_slen.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Mundo de la musica
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/chunklist_w1818363519.m3u8
@@ -1546,6 +1582,57 @@ https://v3.playerlatino.live/stream/m3u8/149
 
 #EXTINF:-1 tvg-logo="", US | SyFy
 https://v3.playerlatino.live/stream/m3u8/151
+
+#EXTINF:-2022, ARTS AND ENTERTAINMENT CHANNEL
+https://router.cdn.rcs.net.ar/mnp/ae/output.mpd
+
+#EXTINF:-2022, CONSTRUIR TV
+https://router.cdn.rcs.net.ar/mnp/construiriptv/outpu..
+
+#EXTINF:-2022, AMÉRICA
+https://router.cdn.rcs.net.ar/mnp/america/output.mpd
+
+#EXTINF:-2022, TELEFE
+https://router.cdn.rcs.net.ar/mnp/telefe/output.mpd
+
+#EXTINF:-2022, EL 13
+https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
+
+#EXTINF:-2022, EL NUEVE
+https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+
+#EXTINF:-2022, DISCOVERY TURBO
+https://router.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+
+#EXTINF:-2022, TVP
+https://router.cdn.rcs.net.ar/mnp/tvp/output.mpd
+
+#EXTINF:-2022, ESPN 01
+https://router.cdn.rcs.net.ar/mnp/espn/output.mpd
+
+#EXTINF:-2022, ESPN 02
+https://router.cdn.rcs.net.ar/mnp/espn2/output.mpd
+
+#EXTINF:-2022, ESPN 03
+https://router.cdn.rcs.net.ar/mnp/espn3/output.mpd
+
+#EXTINF:-2022, ESPN EXTRA
+https://router.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+
+#EXTINF:-2022, FOX SPORTS
+https://router.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+
+#EXTINF:-2022, FOX SPORTS 02
+https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+
+#EXTINF:-2022, FOX SPORTS 03
+https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+
+#EXTINF:-2022, HISTORY
+https://router.cdn.rcs.net.ar/mnp/history/output.mpd
+
+#EXTINF:-2022, HISTORY 02
+https://router.cdn.rcs.net.ar/mnp/h2/output.mpd
 
 # -------------------------------------------------------
 
