@@ -1413,9 +1413,6 @@ https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/chunklis
 #EXTINF:-1 tvg-logo="", CL | Planeta tv music
 https://scl.edge.grupoz.cl/music/live/chunklist_w688657287.m3u8
  
-#EXTINF:-1 tvg-logo="", CL | Rewind
-https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1761070164.m3u8
- 
 #EXTINF:-1 tvg-logo="", IT | Radio Capital
 https://streamcdnb12-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b2428000.m3u8
 #http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-b.m3u8
@@ -1449,21 +1446,6 @@ https://ca2.inka.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Tierra mia
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w232546517_b1864000_sleng.m3u8
- 
-#EXTINF:-1 tvg-logo="", CO | Hits channel
-https://hvtraficonew.ddns.net/pastocnc1/cnc1/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="", CO | Son corazón
-https://hvtraficonew.ddns.net/pastocnc3/cnc3/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="", CO | Son latino
-https://hvtraficonew.ddns.net/pastocnc2/cnc2/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="", CO | Son popular
-https://hvtraficonew.ddns.net/pastocnc7/cnc7/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="", CO | Sentimiento vallenato
-https://hvtraficonew.ddns.net/pastocnc4/cnc4/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", CO | Mi gente tv
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
@@ -1538,12 +1520,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist480_p.m3u8
 https://horrorfy-distro.amagi.tv/Horrify-roku/master_5.m3u8
 #https://horrorfy-plex.amagi.tv/Horrify-roku/master_5.m3u8
  
-#EXTINF:-1, Cine club
-https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
- 
-#EXTINF:-1, Fuakata!
-https://linear-304.frequency.stream/304/hls/master/playlist_1024x576.m3u8
- 
 #EXTINF:-1, Cindie lite
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=871
 
@@ -1555,9 +1531,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
 
 #EXTINF:-1, Pelimex
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
-
-#EXTINF:-1,Film Stream
-https://siloh-latam-aka.plutotv.net/lilo/production/Filmstream/LATAM/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="", Xtrema Cine Terror
 https://stmv1.cnarlatam.com/cineterror/cineterror/chunklist_w2112576709.m3u8
@@ -1571,68 +1544,6 @@ https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/chunklist_w1331328207.m3u8
 # -------------------------------------------------------
 
 # ------------------- Temporales -------------------------
-#EXTINF:-1 tvg-logo="", US | CNN esp
-https://v3.playerlatino.live/stream/m3u8/136
-
-#EXTINF:-1 tvg-logo="", US | Sony
-https://v3.playerlatino.live/stream/m3u8/145
-
-#EXTINF:-1 tvg-logo="", AR | Film & Arts
-https://v3.playerlatino.live/stream/m3u8/149
-
-#EXTINF:-1 tvg-logo="", US | SyFy
-https://v3.playerlatino.live/stream/m3u8/151
-
-#EXTINF:-2022, ARTS AND ENTERTAINMENT CHANNEL
-https://router.cdn.rcs.net.ar/mnp/ae/output.mpd
-
-#EXTINF:-2022, CONSTRUIR TV
-https://router.cdn.rcs.net.ar/mnp/construiriptv/outpu..
-
-#EXTINF:-2022, AMÉRICA
-https://router.cdn.rcs.net.ar/mnp/america/output.mpd
-
-#EXTINF:-2022, TELEFE
-https://router.cdn.rcs.net.ar/mnp/telefe/output.mpd
-
-#EXTINF:-2022, EL 13
-https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
-
-#EXTINF:-2022, EL NUEVE
-https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-
-#EXTINF:-2022, DISCOVERY TURBO
-https://router.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
-
-#EXTINF:-2022, TVP
-https://router.cdn.rcs.net.ar/mnp/tvp/output.mpd
-
-#EXTINF:-2022, ESPN 01
-https://router.cdn.rcs.net.ar/mnp/espn/output.mpd
-
-#EXTINF:-2022, ESPN 02
-https://router.cdn.rcs.net.ar/mnp/espn2/output.mpd
-
-#EXTINF:-2022, ESPN 03
-https://router.cdn.rcs.net.ar/mnp/espn3/output.mpd
-
-#EXTINF:-2022, ESPN EXTRA
-https://router.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
-
-#EXTINF:-2022, FOX SPORTS
-https://router.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
-
-#EXTINF:-2022, FOX SPORTS 02
-https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
-
-#EXTINF:-2022, FOX SPORTS 03
-https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
-
-#EXTINF:-2022, HISTORY
-https://router.cdn.rcs.net.ar/mnp/history/output.mpd
-
-#EXTINF:-2022, HISTORY 02
-https://router.cdn.rcs.net.ar/mnp/h2/output.mpd
 
 # -------------------------------------------------------
 
@@ -1654,17 +1565,11 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3
 #EXTINF:-1 tvg-logo="", CL | D13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 
-#EXTINF:-1 tvg-logo="", CR | FUTV
-https://m6gdar5eyn93-hls-live.5centscdn.com/FutvStream/a2043e93f9196f2de4487156bc8261f3.sdp/FutvStream/stream24x7live3/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="", PE | Best cable Sports
 https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Garage tv
 https://stream1.sersat.com/hls/garagetv.m3u8
- 
-#EXTINF:-1 tvg-logo="", AR | Fuel tv
-https://siloh-latam-aka.plutotv.net/lilo/production/FuelTV/LATAM/master_2.m3u8
  
 #EXTINF:-1 tvg-logo="", ES | Real Madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
@@ -1680,6 +1585,9 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Telefe Deportes
 https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Tyc Sports 2
+https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index_9.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Tyc Play 1
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_14.m3u8
