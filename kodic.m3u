@@ -1,7 +1,7 @@
 #EXTM3U
  
 # --- Lista latinoamericana para pvr iptvsimple de Kodi ----
-# --- Actualizada 7/8/23 ---
+# --- Actualizada 12/9/23 ---
 # --- Haciendo click en RAW obtienes la url en formato correcto ---
  
 # -------------- Selección ---------------------
@@ -87,6 +87,9 @@ https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w2048174485.m3u8
 #EXTINF:-1 tvg-logo="", PR | X level tv
 https://tv.portalexpress.es:3220/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo="", Peliculas mania
+https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv?android_vs.ts.m3u8
+
 #EXTINF:-1, MX | Free tv
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 
@@ -99,27 +102,20 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3
 #EXTINF:-1 tvg-logo="", MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Diti tv
-https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
-
 #EXTINF:-1 tvg-logo="", AR | Maxima tv
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Retro play tv
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="", CL | Zoom back
+https://panel.miplay.cl:8081/zoomback/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="", CL | VClassic tv
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1993337622.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | VClassic tv tropical
 https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1293437143.m3u8
-
-#EXTINF:-1 tvg-logo="", AR | Mas FM
-https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | Zoom back
-https://panel.miplay.cl:8081/zoomback/tracks-v1a1/mono.m3u8
- 
 
 # --------------------------------------------------------
  
@@ -233,6 +229,9 @@ http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w2796235.m3u8
 
 #EXTINF:-1 tvg-logo="", HN | Campus tv
 https://5e85d90130e77.streamlock.net/6052/6052/chunklist_w2127210416.m3u8
+
+#EXTINF:-1 tvg-logo="", Platzi tv
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
  
 #EXTINF:-1,Saber mas
 https://sabermas-distro.amagi.tv/SaberMas-xumo/master_5.m3u8
@@ -310,9 +309,11 @@ https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Futurama mania
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts.m3u8
 
+#EXTINF:-1 tvg-logo="", Padre de familia
+https://stream-cdn-iad.vaughnsoft.net/play/live_padre_de_familia1.flv?android_vs.ts.m3u8
+
 #EXTINF:-1 tvg-logo="", South Park 24/7
-https://i.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
-#http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-logo="", US | Sony comedias
 https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
@@ -330,6 +331,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Energeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", Pandamax
+https://streaming.zappix.live:3062/live/animaxlive.m3u8
 
 #EXTINF:-1 tvg-logo="", Xtrema Anime
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/chunklist_w1525675350.m3u8
@@ -544,6 +548,9 @@ https://video.streamtvradio.com:8443/uv027/uv027/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Panc tv
 https://stream.trixserver.com:3088/live/uv096live.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Quaere tv
+https://videostream.shockmedia.com.ar:19360/quaeretv/quaeretv.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Quatro tv
 https://stream.arcast.live/quatro/quatro/chunklist_w2074874609.m3u8
@@ -571,6 +578,9 @@ https://inliveserver.com:1936/14044/14044/chunklist_w154613434.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Tves
 https://vivo.solumedia.com:19360/tves/tves.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Vive tv
+https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Yapeyu Cable color
 https://videohd.live:19360/8094/8094.m3u8
@@ -1394,6 +1404,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
  
 #EXTINF:-1 tvg-logo="", CL | Portalfoxmix
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w551241324.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Mas FM
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Radiocanal San Francisco
 http://204.199.3.2/.m3u8
@@ -1449,7 +1462,7 @@ https://ca2.inka.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Tierra mia
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w232546517_b1864000_sleng.m3u8
- 
+
 #EXTINF:-1 tvg-logo="", CO | Mi gente tv
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
  
