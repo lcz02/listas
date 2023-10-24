@@ -457,9 +457,6 @@ http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1132387993.m3u8
 #EXTINF:-1 tvg-logo="", AR | 5 Tigre
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | América Tuc
-https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-
 #EXTINF:-1 tvg-logo="", AR | 2 Solive Tuc
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 
@@ -468,6 +465,9 @@ https://videohd.live:19360/8090/8090.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | 8 Tuc
 plugin://plugin.video.dailymotion_com/?url=x8hvuj5&mode=playLiveVideo
+
+#EXTINF:-1 tvg-logo="", AR | Metro tv
+http://streamtv12.ddns.net:5080/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Calchaqui tv
 https://stream.trixserver.com:3836/live/uv068live.m3u8
@@ -558,9 +558,6 @@ https://inliveserver.com:1936/14056/14056/chunklist_w1717706659.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | M
 https://videohd.live:19360/8006/8006.m3u8
-
-#EXTINF:-1 tvg-logo="", AR | Metro tv
-http://streamtv12.ddns.net:5080/LiveApp/streams/193945633734205616732920.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Millenium tv
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
