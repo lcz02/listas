@@ -261,11 +261,14 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1,Saber mas
 https://sabermas-distro.amagi.tv/SaberMas-xumo/master_5.m3u8
 
+#EXTINF:-1, ES | DMax
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="", Nature time esp
 https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist720-lp.m3u8
 
 #EXTINF:-1 tvg-logo="", DE | Deutsche Welle esp
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
  
 # ----------------------------------------------
 
