@@ -57,11 +57,11 @@ https://amc-cortos-1-us.plex.wurl.tv/6b2d27316f6db09cd580f408e7652200.m3u8
 #EXTINF:-1 tvg-logo="", AR | Cine ar
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Cidad Magazine
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="", CL | Retro play tv
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Origen tv
+https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w750657957.m3u8
 
 # --------------------------------------------------------
 
@@ -113,6 +113,9 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live-audio_1=128
 
 #EXTINF:-1 tvg-logo="", AR | El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
@@ -261,14 +264,11 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1,Saber mas
 https://sabermas-distro.amagi.tv/SaberMas-xumo/master_5.m3u8
 
-#EXTINF:-1, ES | DMax
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="", Nature time esp
 https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist720-lp.m3u8
 
 #EXTINF:-1 tvg-logo="", DE | Deutsche Welle esp
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
  
 # ----------------------------------------------
 
