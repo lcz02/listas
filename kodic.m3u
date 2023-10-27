@@ -85,6 +85,21 @@ https://video20.klm99.com:3558/live/teleredlive.m3u8
 #EXTINF:-1 tvg-logo="", CR | Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O5fZ5RX.png", Mi TV Television Clasica
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7odp7O.png", Retro Magico
+https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCtEVPc.jpg", Teleclasica
+https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XVb8GeN.png", TV Retro Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GF3i7qq.png", Retro TV HD
+https://ssh101.bozztv.com/ssh101/retrotvcr/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="", CR | Retrox tv
 https://tgn.bozztv.com/ssh101/ssh101/123456789/chunks.m3u8
 
@@ -384,11 +399,17 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="", CL | Chilevisual kids
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/chunklist_w838581929.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Retro Mágico
-https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:-1 tvg-logo="", BO | Gogo play
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", Animestation
+https://ssh101.bozztv.com/ssh101/livestreamingtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Magic kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Big Channel
+https://ssh101.bozztv.com/ssh101/magic2019/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="", UY | Latino kids tv
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w231877540.m3u8
