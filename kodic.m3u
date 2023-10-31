@@ -192,9 +192,6 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1293437143.m3u8
 #EXTINF:-1 tvg-logo="", Pluto tv Ciencia
 plugin://plugin.video.plutotv/play/live/5dd8364ea1d6780009929902
 
-#EXTINF:-1 tvg-logo="", AR | Construir tv
-https://router.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
-
 #EXTINF:-1 tvg-logo="", AR | Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w2123580557.m3u8
  
@@ -349,9 +346,6 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_5.m3u8
 #EXTINF:-1 tvg-logo="", MX | Vix jajaja
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", ES | El club de la comedia
-https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
-
 #EXTINF:-1 tvg-logo="", El chavo plus
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
@@ -363,6 +357,9 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_padre_de_familia1.flv?android_vs
 
 #EXTINF:-1 tvg-logo="", South Park 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-logo="", Daria
+https://i.mjh.nz/PlutoTV/62d08af527ce19000731eaa0-alt.m3u8
 
 #EXTINF:-1 tvg-logo="", US | Sony comedias
 https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
