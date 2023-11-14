@@ -76,11 +76,14 @@ https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/chunklist_w163051
 #EXTINF:-1 tvg-logo="", AR | El Palomar tv
 https://stream.trixserver.com:3249/live/uv038live.m3u8
 
+#EXTINF:-1 tvg-logo="", AR | Ciudad Magica tv
+https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1045e40ee9f9492ea5f0fbac4ae32d7d~mv2.png", GT | TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
  
 #EXTINF:-1 tvg-logo="", CR | Telered
-https://video20.klm99.com:3558/live/teleredlive.m3u8
+https://video20.klm99.com:3558/hybrid/play.m3u8
  
 #EXTINF:-1 tvg-logo="", CR | Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
