@@ -88,9 +88,6 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5fZ5RX.png", Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B7odp7O.png", Retro Magico
-https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCtEVPc.jpg", Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
 
@@ -121,10 +118,6 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
  
 #EXTINF:-1 tvg-logo="", AR | TVP
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
- 
-#EXTINF:-1 tvg-logo="", AR | El nueve
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live-audio_1=128000-video=2800000.m3u8
-#https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
@@ -135,11 +128,6 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono
 #EXTINF:-1 tvg-logo="", MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-logo="", AR | TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
@@ -407,6 +395,9 @@ https://tgn.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", Animestation
 https://ssh101.bozztv.com/ssh101/livestreamingtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7odp7O.png", Retro Magico
+https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Magic kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
