@@ -12,14 +12,11 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mo
 #EXTINF:-1 tvg-logo="", US | Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist_1024x576.m3u8
 
+#EXTINF:-1 tvg-logo="", CL | Chilevisual film
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w1299186640.m3u8
+
 #EXTINF:-1 tvg-logo="", CL | Planetatv movies
 https://scl.edge.grupoz.cl/movie/live/chunklist_w12926219.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | +Cine
-https://tv.streaming-chile.com:1936/8142/8142/chunklist_w1087029241.m3u8
-
-#EXTINF:-1, CL | Terror tv
-https://tv.streaming-chile.com:1936/8140/8140/chunklist_w1158724473.m3u8
 
 #EXTINF:-1, LA | Runtime Peliculas
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
@@ -42,20 +39,23 @@ https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
 #EXTINF:-1, LA | Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | Chilevisual film
-https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w1299186640.m3u8
+#EXTINF:-1 tvg-logo="", CL | +Cine
+https://tv.streaming-chile.com:1936/8142/8142/chunklist_w1087029241.m3u8
+
+#EXTINF:-1, CL | Terror tv
+https://tv.streaming-chile.com:1936/8140/8140/chunklist_w1158724473.m3u8
 
 #EXTINF:-1 tvg-logo="", Peliculas mania
 https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv?android_vs.ts.m3u8
-
-#EXTINF:-1, MX | Free tv
-https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 
 #EXTINF:-1, LA | Cortos
 https://amc-cortos-1-us.plex.wurl.tv/6b2d27316f6db09cd580f408e7652200.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Cine ar
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | JCU Streaming
+https://stmv3.voxtvhd.com.br/jcustreaming/jcustreaming/chunklist_w1403457497.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Retro play tv
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
@@ -161,11 +161,17 @@ https://tv.portalexpress.es:3220/stream/play.m3u8
 #EXTINF:-1 tvg-logo="", AR | Maxima tv
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 
+#EXTINF:-1, MX | Free tv
+https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
+
 #EXTINF:-1 tvg-logo="", PA | TVMAX
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="", SV | TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
+
+#EXTINF:-1 tvg-logo="", US | Canal 57
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Zoom back
 https://panel.miplay.cl:8081/zoomback/tracks-v1a1/mono.m3u8
@@ -280,19 +286,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 
 # ---------- Noticias --------------------
 
-#EXTINF:-1 tvg-logo="", US | América teve
-https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w975462523.m3u8
-
 #EXTINF:-1 tvg-logo="", FR | France 24 esp
 https://panel.miplay.cl:8081/france24/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-logo="", RU | RT esp
-https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
  
 #EXTINF:-1 tvg-logo="", CN | CGTN esp
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -321,7 +319,7 @@ https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-vid
 #EXTINF:-1 tvg-logo="", LA | Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="", US | CNN Samsung
+#EXTINF:-1 tvg-logo="", US | CNN Resumen
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="", PR | Telemundo noticias
@@ -364,7 +362,6 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1067083774.
 
 #EXTINF:-1 tvg-logo="", CL | Energeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
-#https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Energeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
@@ -402,10 +399,10 @@ https://ssh101.bozztv.com/ssh101/livestreamingtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B7odp7O.png", Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Magic kids
+#EXTINF:-1 tvg-logo="", AR | Magic stream
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Big Channel
+#EXTINF:-1 tvg-logo="", AR | Magic
 https://ssh101.bozztv.com/ssh101/magic2019/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="", UY | Latino kids tv
@@ -453,11 +450,6 @@ https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
 #EXTINF:-1,Level up
 https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195/variant/22099553.m3u8
 ##https://d37s0md1fx4qof.cloudfront.net/scheduler/scheduleMaster/195.m3u8
-
-#EXTINF:-1 tvg-logo="", VE | Esports max
-http://vcpar.myplaytv.com/esportsmax/live/chunklist_w1720451177.m3u8
-
-
  
 # -----------------------------------------------
  
@@ -1328,7 +1320,7 @@ https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/chunklist_w1537790816.m3u8
 
 #EXTINF:-1 tvg-logo="", PY | Trece
-https://stream.rpc.com.py/live/trece_src.m3u8
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/chunklist_w1203985309.m3u8
  
 #EXTINF:-1 tvg-logo="", PY | Ñanduti tv
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
@@ -1360,28 +1352,19 @@ http://streamingcws20.com:1935/tves/tves.smil/chunklist_w1379477950_b13128000_sl
  
 #EXTINF:-1 tvg-logo="", SV | 12 Salvador
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b512000.m3u8
-
-#EXTINF:-1 tvg-logo="", US | Canal 57
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
  
-#EXTINF:-1 tvg-logo="", UY | 9 Telerocha
-https://stm1.rootuy.xyz:19360/canal9/canal9.m3u8
- 
-#EXTINF:-1 tvg-logo="", UY | La red
-https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
+#EXTINF:-1 tvg-logo="", UY | Charrua tv
+https://stmv.video.gmpro.top/tvcharrua/tvcharrua/chunklist_w1445228592.m3u8
  
 #EXTINF:-1 tvg-logo="", UY | TV Florida
-http://s5.mexside.net:1935/tvflorida/tvflorida/chunklist_w1483690655.m3u8
+https://nextpanel.net/memfs/00849009-8237-4bd1-83fc-531ac1e27189_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="", UY | UCL
-http://162.246.18.122:8081/telepuerto-master/ucl-abr/telepuerto-01/canal_ucl_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="", VE | TRV
-https://vcp3.myplaytv.com/trv/trv/chunklist_w1502862757.m3u8
+https://streamingamericaservice.info:19360/ucltv/ucltv.m3u8
  
 # --------------------------------------------------
- 
- 
+
+
 # ----------------- Lifestyle ------------------------
 
 #EXTINF:-1 tvg-logo="", US | Tastemade esp
@@ -1516,20 +1499,14 @@ https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="", CO | Memorias tv
 https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="", PE | Best cable music
-ttps://mi.godo.net.pe/best-Music-00112000050/index.m3u8?token=80fd355c18548bf371ea5689620b2836a04f6a67-03924629be44f7c468ad7102cf302b71-1696794983-1696784183
- 
-#EXTINF:-1 tvg-logo="", PE | +Cumbia
-https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8?token=09358364655a7c221e121218bc7d97e56c4fb531-1643209f32dcc092dd75d06515b1d191-1696795082-1696784282
- 
-#EXTINF:-1 tvg-logo="", PE | Hatun
-https://mi.godo.net.pe/Best00Hatum-0032101002/index.m3u8?token=12aaf14bd89c54d2baa3dd1cab3723ae7a4735e8-38875d96f2dac3097e4cb657d77ab79f-1696795160-1696784360
-
 #EXTINF:-1 tvg-logo="", PE | Ritmos Peru
 https://servilive.com:3791/live/ritmosperulive.m3u8
 
 #EXTINF:-1 tvg-logo="", PE | Turbomix
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-logo="", VE | ShowVen tv
+https://vcp.myplaytv.com/coll/coll/chunklist_w180923458.m3u8
  
 # ---------------------------------------------
  
@@ -1601,9 +1578,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist480_p.m3u8
 https://horrorfy-distro.amagi.tv/Horrify-roku/master_5.m3u8
 #https://horrorfy-plex.amagi.tv/Horrify-roku/master_5.m3u8
  
-#EXTINF:-1, Cindie lite
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=871
-
 #EXTINF:-1, Canela tv
 https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b6l452oz4jqa1-ssai-prd/ctsa.m3u8
  
