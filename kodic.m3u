@@ -18,8 +18,11 @@ https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w12991866
 #EXTINF:-1 tvg-logo="", CL | Planetatv movies
 https://scl.edge.grupoz.cl/movie/live/chunklist_w12926219.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | ARCine
-https://stmv5.livecastv.com/arplaytv/arplaytv/chunklist_w1718880880.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_PELICULAS_HD.png", SEO TV Peliculas
+https://live.seo.tv.bo/live/SEO-4.m3u8
+
+##EXTINF:-1 tvg-logo="", AR | ARCine
+##https://stmv5.livecastv.com/arplaytv/arplaytv/chunklist_w1718880880.m3u8
 
 #EXTINF:-1, LA | Runtime Peliculas
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
@@ -51,8 +54,17 @@ https://tv.streaming-chile.com:1936/8140/8140/chunklist_w1158724473.m3u8
 #EXTINF:-1 tvg-logo="", Peliculas mania
 https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv?android_vs.ts.m3u8
 
-#EXTINF:-1, LA | Cortos
-https://amc-cortos-1-us.plex.wurl.tv/6b2d27316f6db09cd580f408e7652200.m3u8
+#EXTINF:-1 tvg-logo="", Cinemundo+
+https://stream-cdn-iad2.vaughnsoft.net/play/live_cinemundo_plus.flv?android_vs.ts.m3u8
+
+#EXTINF:-1 tvg-logo="", Terror mania
+https://stream-cdn-iad2.vaughnsoft.net/play/live_terror_mania.flv?android_vs.ts.m3u8
+
+#EXTINF:-1 tvg-logo="", Criticando pelis
+https://stream-cdn-iad2.vaughnsoft.net/play/live_criticando_pelis.flv?android_vs.ts.m3u8
+
+#EXTINF:-1 tvg-logo="", Neflix
+https://stream-cdn-iad2.vaughnsoft.net/play/live_a_neflix01.flv?android_vs.ts.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Cine ar
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3u8
@@ -135,7 +147,10 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png", SEO TV Deportes  
+https://live.seo.tv.bo/live/SEO-5.m3u8
 
 #EXTINF:-1 tvg-logo="", DO | Mega Cine tv
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
@@ -426,8 +441,8 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Zas tv
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
  
-#EXTINF:-1 tvg-logo="", BO | Seo tv kids
-https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_KIDS_HD.png", SEO TV 2 Kids
+https://live.seo.tv.bo/live/SEO-2.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1058973886.m3u8
@@ -664,8 +679,8 @@ https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", BO | Renueva digital
 https://my.tiviapp.com/renuevadigital/tracks-v1a1/mono.m3u8
  
-#EXTINF:-1 tvg-logo="", BO | Seo tv
-https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_HD.png", SEO tv
+https://live.seo.tv.bo/live/SEO-1.m3u8
  
 #EXTINF:-1 tvg-logo="", BO | Tele estrella
 http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
@@ -1063,8 +1078,8 @@ https://stmv1.zcastbr.com/roatanhableclaro/roatanhableclaro/chunklist_w489793922
 https://emisoras.hn:8081/tvcopan/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", MX | Azteca Internacional
-https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#https://azt-mun-runtime.otteravision.com/azt/mun/mun_720p_high.m3u8
+https://azt-mun-runtime.otteravision.com/azt/mun/mun_720p_high.m3u8
+#https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="", MX | Azteca Corazon
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -1084,24 +1099,15 @@ https://estrellatv-roku.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-logo="", MX | Estrella games
 https://estrella-games-oando.amagi.tv/playlistR720P.m3u8
  
-#EXTINF:-1 tvg-logo="", MX | Nuestra vision
-https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_2.m3u8
- 
 #EXTINF:-1 tvg-logo="", NI | 4 Nicaragua
 plugin://plugin.video.dailymotion_com/?url=x7rwv8c&mode=playLiveVideo
-
-#EXTINF:-1 tvg-logo="", NI | TN8
-https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w379870609.m3u8
 
 #EXTINF:-1 tvg-logo="", NI | 13 Viva Nicaragua
 plugin://plugin.video.dailymotion_com/?url=x7u200z&mode=playLiveVideo
 
-#EXTINF:-1 tvg-logo="", NI | La rock 22
-http://138.117.4.70:8075/channel22/playlist.m3u8
+#EXTINF:-1 tvg-logo="", NI | TV Max Teusetepe
+https://stream-cdn-iad.vaughnsoft.net/play/live_tvmaxteustepe.flv?android_vs.ts.m3u8
 
-#EXTINF:-1 tvg-logo="", NI | Vos tv
-http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="", NI | Wtv
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
@@ -1147,6 +1153,9 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w1181359392.m3u8
 
 #EXTINF:-1 tvg-logo="", PE | CCN
 https://tv.inka.net.pe/cntv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", PE | Chincha tv
+https://stream-cdn-iad.vaughnsoft.net/play/live_chinchatv.flv?android_vs.ts.m3u8
  
 #EXTINF:-1 tvg-logo="", PE | Clips tv
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
@@ -1521,8 +1530,8 @@ https://televisa-televisa-1-it.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-logo="", Kanal D Drama
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
  
-#EXTINF:-1, BO | Seo tv novelas
-https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_NOVELAS_HD.png", SEO TV Novelas
+https://live.seo.tv.bo/live/SEO-3.m3u8
  
 #EXTINF:-1, Sony Novelas
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
