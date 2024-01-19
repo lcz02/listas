@@ -179,6 +179,9 @@ https://tv.portalexpress.es:3220/stream/play.m3u8
 #EXTINF:-1 tvg-logo="", AR | Maxima tv
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 
+#EXTINF:-1 tvg-logo="", PE | Latina
+https://live-zlr1.tv360.bitel.com.pe/bitel/latina/chunks.m3u8
+
 #EXTINF:-1, MX | Free tv
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 
@@ -974,7 +977,10 @@ https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/chunklist_w311285100_b
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_tv-azteca-guatemala_m.png", GT | TV Azteca Guate
 http://45.5.117.138:25461/playgt/123456/68
- 
+
+EXTINF:-1 tvg-logo="", GT | Televisiete
+https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT2/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png", GT | Teleonce
 http://45.5.117.138:25461/playgt/123456/83
  
@@ -1101,6 +1107,9 @@ https://estrella-games-oando.amagi.tv/playlistR720P.m3u8
  
 #EXTINF:-1 tvg-logo="", NI | 4 Nicaragua
 plugin://plugin.video.dailymotion_com/?url=x7rwv8c&mode=playLiveVideo
+
+#EXTINF:-1 tvg-logo="", NI | 10 Nicaragua
+https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/Canal10NI/Canal10NI1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", NI | 13 Viva Nicaragua
 plugin://plugin.video.dailymotion_com/?url=x7u200z&mode=playLiveVideo
@@ -1321,6 +1330,12 @@ https://tv.oyotunstream.com:1936/xtv/xtv/chunklist_w1830535672.m3u8
 
 #EXTINF:-1 tvg-logo="", PE | Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+
+#EXTINF:-1 tvg-logo="", PR | 11 Univisión
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=2800000.m3u8
+
+#EXTINF:-1 tvg-logo="", PR | Wapa
+https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", PY | Next tv
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
@@ -1622,6 +1637,9 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3
 
 #EXTINF:-1 tvg-logo="", CL | D13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+
+#EXTINF:-1 tvg-logo="", PR | Wapa Deportes
+https://live.field59.com/wapa/wapa2/.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Garage tv
 https://stream1.sersat.com/hls/garagetv.m3u8
