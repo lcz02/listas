@@ -66,8 +66,8 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_criticando_pelis.flv?android_vs
 #EXTINF:-1 tvg-logo="", Neflix
 https://stream-cdn-iad2.vaughnsoft.net/play/live_a_neflix01.flv?android_vs.ts.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Cine ar
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3u8
+#EXTINF:-1 tvg-logo="", AR | Neox tv
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | JCU Streaming
 https://stmv3.voxtvhd.com.br/jcustreaming/jcustreaming/chunklist_w1403457497.m3u8
@@ -1399,10 +1399,7 @@ https://streamingamericaservice.info:19360/ucltv/ucltv.m3u8
 
 #EXTINF:-1 tvg-logo="", US | Tastemade esp
 https://tastemade-es8intl-roku.amagi.tv/playlist720lp.m3u8
- 
-#EXTINF:-1 tvg-logo="", LA | Hola TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
- 
+
 #EXTINF:-1 tvg-logo="", ES | Hola Play
 https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
 
@@ -1413,16 +1410,13 @@ https://panel.miplay.cl:8081/ladies/tracks-v1a1/mono.m3u8
 http://sierra-002-showbusiness.unitedteleports.tv/SIERRA/showbusinesstv-demo.m3u8
  
 #EXTINF:-1 tvg-logo="", FR | Fashion tv
-https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
  
 #EXTINF:-1 tvg-logo="", FR | Fashion tv Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
 
 #EXTINF:-1 tvg-logo="", BO | Sociales vip
 https://5790d294af2dc.streamlock.net/8032/8032/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="", CL | TV Salud
-https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8
  
 #EXTINF:-1 tvg-logo="", CO | RCN+
 https://rcntv-rcnmas-1-us.roku.wurl.tv/4300.m3u8
@@ -1432,13 +1426,29 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", ES | Love Magazine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="", ES | Explore
-https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist1080_p.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Viajar
+https://stmv5.livecastv.com/manualtman/manualtman/chunklist_w159501479.m3u8
  
 # ----------------------------------------
+
+# --------- Cine hispanoamerica -------------
+
+#EXTINF:-1 tvg-logo="", AR | Cine ar
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3u8
+
+#EXTINF:-1,Cine sureño
+https://cinesureno-distro.amagi.tv/CineSureno-roku/master_5.m3u8
+
+#EXTINF:-1, Pelimex
+https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
+
+# --------------------------------------------
  
 # --------------- España --------------------
+
+#EXTINF:-1 tvg-logo="", ES | La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/942d17f4-ca62-4970-80f3-59735ca92ce7/3.m3u8
 
 #EXTINF:-1 tvg-logo="", ES | Telemadrid Int
 https://new-international-23.secure2.footprint.net/index.m3u8
@@ -1448,12 +1458,6 @@ https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
  
 #EXTINF:-1 tvg-logo="", ES | Mijas 3.40 tv
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
-
-#EXTINF:-1 tvg-logo="", ES | La 1
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="", ES | Movies Central
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8
 
 # ------------------------------------------------
  
@@ -1577,6 +1581,9 @@ plugin://plugin.video.plutotv/play/live/63eb95baa99571000898a078
 #EXTINF:-1 tvg-logo="", Pluto tv Misterios
 plugin://plugin.video.plutotv/play/live/5dcde2f53449c50009b2b4dc
 
+#EXTINF:-1, ES | Cine Friki
+https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8
+
 #EXTINF:-1,Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_5.m3u8
  
@@ -1588,10 +1595,7 @@ https://topcinelatam-plex.amagi.tv/TopCineLATAMx/master_5.m3u8
  
 #EXTINF:-1,Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master_5.m3u8
- 
-#EXTINF:-1,Cine sureño
-https://cinesureno-distro.amagi.tv/CineSureno-roku/master_5.m3u8
- 
+
 #EXTINF:-1, My Time
 https://appletree-mytime-samsungmexico.amagi.tv/playlist480_p.m3u8
  
@@ -1604,9 +1608,6 @@ https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
  
 #EXTINF:-1, Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
-
-#EXTINF:-1, Pelimex
-https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Xtrema Cine Terror
 https://stmv1.cnarlatam.com/cineterror/cineterror/chunklist_w2112576709.m3u8
