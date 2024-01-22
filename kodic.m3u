@@ -24,6 +24,9 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w1087029241.m3u8
 #EXTINF:-1, CL | Terror tv
 https://tv.streaming-chile.com:1936/8140/8140/chunklist_w1158724473.m3u8
 
+#EXTINF:-1 tvg-logo="", CL | Origen tv
+https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w750657957.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_PELICULAS_HD.png", BO | SEO TV Peliculas
 https://live.seo.tv.bo/live/SEO-4.m3u8
 
@@ -68,9 +71,6 @@ https://stmv3.voxtvhd.com.br/jcustreaming/jcustreaming/chunklist_w1403457497.m3u
 
 #EXTINF:-1 tvg-logo="", CL | Retro play tv
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="", CL | Origen tv
-https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w750657957.m3u8
 
 # --------------------------------------------------------
 
@@ -293,7 +293,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
  
 #EXTINF:-1 tvg-logo="", ES | Euronews
-https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/2665ef51-06ab-4d7c-8577-fa7866993101/0.m3u8
+https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1766874094.m3u8
@@ -308,7 +308,7 @@ https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/perfiltv/livestre
 https://g4.mc-hor.transport.edge-access.net/b02/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8|Referer=https://vmf.edge-apps.net
  
 #EXTINF:-1 tvg-logo="", AR | A24
-https://g2.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8|Referer=https://vmf.edge-apps.net
+https://g4.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8|Referer=https://vmf.edge-apps.net
 
 #EXTINF:-1 tvg-logo="", AR | TN
 https://live-01-01-tn.vodgc.net/TN24/tracks-v4a1/mono.m3u8
@@ -519,9 +519,6 @@ https://videohd.live:19360/8018/8018.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Chaco tv
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w1046057439.m3u8
-
-#EXTINF:-1 tvg-logo="", AR | Ciudad mágica tv
-https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Ciudad tv (Chaco)
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
@@ -1061,6 +1058,9 @@ https://estrellatv-roku.amagi.tv/playlistR720P.m3u8
  
 #EXTINF:-1 tvg-logo="", MX | Estrella games
 https://estrella-games-oando.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-logo="", MX | Imagen
+https://igd-it.otteravision.com/igd/it/it_720.m3u8
  
 #EXTINF:-1 tvg-logo="", NI | 4 Nicaragua
 plugin://plugin.video.dailymotion_com/?url=x7rwv8c&mode=playLiveVideo
@@ -1394,24 +1394,33 @@ https://stmv5.livecastv.com/manualtman/manualtman/chunklist_w159501479.m3u8
 #EXTINF:-1 tvg-logo="", AR | Cine ar
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3u8
 
-#EXTINF:-1,Cine sureño
+#EXTINF:-1, MX | Cine sureño
 https://cinesureno-distro.amagi.tv/CineSureno-roku/master_5.m3u8
 
-#EXTINF:-1, Pelimex
+#EXTINF:-1, MX | Pelimex
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
 
-#EXTINF:-1, Canela tv
-https://cnm-cn-mx-std.otteravision.com/cnm/cn_mx_std/cn_mx_std_720.m3u8
+#EXTINF:-1, MX | Estrella tv Cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
 #EXTINF:-1, Canela Clasicos
 https://cnm-cn-cc.otteravision.com/cnm/cc/cc_720p_high.m3u8
+
+#EXTINF:-1, MX | Cinema
+https://azt-cin.otteravision.com/azt/cin/cin_720.m3u8
+
+#EXTINF:-1, ES | Rakuten tv Cine español
+https://1306133dcf0640fe9a264e1537bb9782.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_Local/f71bee26-c7bd-4898-b913-79f0eee60c01/2.m3u8
 
 # --------------------------------------------
  
 # --------------- España --------------------
 
 #EXTINF:-1 tvg-logo="", ES | La 1
-https://dh6vo1bovy43s.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/942d17f4-ca62-4970-80f3-59735ca92ce7/3.m3u8
+https://dh6vo1bovy43s.cloudfront.net/La_1_ES_4.m3u8
+
+#EXTINF:-1 tvg-logo="", ES | La 2
+https://di2qeq48iv8ps.cloudfront.net/La_2_ES_4.m3u8
 
 #EXTINF:-1 tvg-logo="", ES | Telemadrid Int
 https://new-international-23.secure2.footprint.net/index.m3u8
@@ -1565,8 +1574,11 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist480_p.m3u8
 #EXTINF:-1,Horrorfy
 https://horrorfy-distro.amagi.tv/Horrify-roku/master_5.m3u8
 #https://horrorfy-plex.amagi.tv/Horrify-roku/master_5.m3u8
- 
-#EXTINF:-1, Canela tv
+
+#EXTINF:-1, Canela tv 1
+https://cnm-cn-mx-std.otteravision.com/cnm/cn_mx_std/cn_mx_std_720.m3u8
+
+#EXTINF:-1, Canela tv 2
 https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b6l452oz4jqa1-ssai-prd/ctsa.m3u8
  
 #EXTINF:-1, Canela Cinema
@@ -1596,7 +1608,7 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1 tvg-logo="", PE | Contacto deportivo
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="", Tigo Sports GT
+#EXTINF:-1 tvg-logo="", GT | Tigo Sports
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | D13
@@ -1607,7 +1619,10 @@ https://live.field59.com/wapa/wapa2/.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Garage tv
 https://stream1.sersat.com/hls/garagetv.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", ES | tdp
+https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES_4.m3u8
+
 #EXTINF:-1 tvg-logo="", ES | Real Madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
  
