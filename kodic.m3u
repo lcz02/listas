@@ -66,11 +66,32 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_criticando_pelis.flv?android_vs
 #EXTINF:-1 tvg-logo="", Neflix
 https://stream-cdn-iad2.vaughnsoft.net/play/live_a_neflix01.flv?android_vs.ts.m3u8
 
+#EXTINF:-1 tvg-logo="", AR | Multivision
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+
 #EXTINF:-1 tvg-logo="", CL | JCU Streaming
 https://stmv3.voxtvhd.com.br/jcustreaming/jcustreaming/chunklist_w1403457497.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Retro play tv
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", Xtrema Cine de accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w2132568859.m3u8
+
+#EXTINF:-1 tvg-logo="", Xtrema Cine de suspenso
+https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/chunklist_w1767960871.m3u8
+
+#EXTINF:-1 tvg-logo="", Xtrema Cine de terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w1491505908.m3u8
+
+#EXTINF:-1 tvg-logo="", Xtrema Cine clasico
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/chunklist_w2141455316.m3u8
+
+#EXTINF:-1 tvg-logo="", Xtrema Cine comedy
+https://stmv6.voxtvhd.com.br/cinecomedia/cinecomedia/chunklist_w33781481.m3u8
+
+#EXTINF:-1 tvg-logo="", Xtrema Cine drama
+https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/chunklist_w270795247.m3u8
 
 # --------------------------------------------------------
 
@@ -324,6 +345,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1
 
 #EXTINF:-1 tvg-logo="", MX | N+
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="", PY | ABC
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
  
 # -----------------------------------------------
 
@@ -362,12 +387,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", Pandamax
 https://streaming.zappix.live:3062/live/animaxlive.m3u8
-
-#EXTINF:-1 tvg-logo="", Xtrema Anime
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/chunklist_w1525675350.m3u8
-
-#EXTINF:-1 tvg-logo="", Xtrema Retro Cartoons
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/chunklist_w893116516.m3u8
 
 #EXTINF:-1 tvg-logo="", LA | Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
@@ -452,10 +471,7 @@ http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1132387993.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | 2 Solive Tuc
-https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", AR | C5 Tuc
-https://videohd.live:19360/8090/8090.m3u8
+https://stmv6.voxtvhd.com.br/solivetv/solivetv/chunklist_w1506845697.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | 8 Tuc
 plugin://plugin.video.dailymotion_com/?url=x8hvuj5&mode=playLiveVideo
@@ -1285,7 +1301,7 @@ https://tv.inka.net.pe/wtv/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="", PE | X tv
 https://tv.oyotunstream.com:1936/xtv/xtv/chunklist_w1830535672.m3u8
 
-#EXTINF:-1 tvg-logo="", PE | Telemundo
+#EXTINF:-1 tvg-logo="", PR | Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="", PR | 11 Univisión
@@ -1296,15 +1312,9 @@ https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", PY | Next tv
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
- 
-#EXTINF:-1 tvg-logo="", PY | Somos del este
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", PY | SNT
 https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="", PY | Suceso TV
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/chunklist_w1537790816.m3u8
 
 #EXTINF:-1 tvg-logo="", PY | Trece
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/chunklist_w1203985309.m3u8
@@ -1315,31 +1325,27 @@ https://tvdatta.com:3839/live/nandutitvlive.m3u8
 #EXTINF:-1 tvg-logo="", SV | Canal 2
 https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-audio_0=64000-video=2000000.m3u8
 
+#EXTINF:-1 tvg-logo="", SV | Canal 3
+https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w1610220774.m3u8
+
 #EXTINF:-1 tvg-logo="", SV | Canal 6
 https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-audio_0=64000-video=2000000.m3u8
 
+#EXTINF:-1 tvg-logo="", SV | Canal 15
+https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
+
 #EXTINF:-1 tvg-logo="", SV | Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
-
 
 #EXTINF:-1 tvg-logo="", SV | Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
  
 #EXTINF:-1 tvg-logo="", SV | Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w634062387.m3u8
- 
-#EXTINF:-1 tvg-logo="", SV | Orbita
-https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist_w1084079919.m3u8
- 
-#EXTINF:-1 tvg-logo="", SV | Teleuno
-http://streamingcws40.com:1935/canaluno/videocanaluno/chunklist_w720333137.m3u8
- 
-#EXTINF:-1 tvg-logo="", SV | C10 Salvador
-http://streamingcws20.com:1935/tves/tves.smil/chunklist_w1379477950_b13128000_sleng.m3u8
- 
-#EXTINF:-1 tvg-logo="", SV | 12 Salvador
-https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b512000.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", SV | TRV
+https://stream.oursnetworktv.com/latin/encoder44/chunklist_w815181143.m3u8
+
 #EXTINF:-1 tvg-logo="", UY | Charrua tv
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/chunklist_w1445228592.m3u8
  
@@ -1446,15 +1452,15 @@ http://204.199.3.2/.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | RBD Radio multimedia
 https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
-
-#EXTINF:-1 tvg-logo="", AR | CM
-http://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8|Referer=https://vmf.edge-apps.net
  
 #EXTINF:-1 tvg-logo="", AR | Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Tierra mia
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Chahame tv
+https://srv2.zcast.com.br/chamame/chamame/chunklist_w1346527352.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Tango tv
 https://video.misistemareseller.com/8118/8118/chunklist_w1696648542.m3u8
@@ -1583,15 +1589,6 @@ https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
  
 #EXTINF:-1, Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
-
-#EXTINF:-1 tvg-logo="", Xtrema Cine Terror
-https://stmv1.cnarlatam.com/cineterror/cineterror/chunklist_w2112576709.m3u8
-
-#EXTINF:-1 tvg-logo="", Xtrema Cine Comedia
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/chunklist_w1658018188.m3u8
-
-#EXTINF:-1 tvg-logo="", Xtrema Cine Family
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/chunklist_w1331328207.m3u8
 
 # -------------------------------------------------------
 
