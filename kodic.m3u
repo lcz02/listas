@@ -6,8 +6,9 @@
  
 # -------------- Peliculas ---------------------
 
-#EXTINF:-1, LA | Sony Cine
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png", LA | Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
+#https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", US | Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist_1024x576.m3u8
@@ -315,6 +316,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
  
 #EXTINF:-1 tvg-logo="", ES | Euronews
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | C5N
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/C5N/SA_HLS/C5N.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1766874094.m3u8
@@ -1060,6 +1064,9 @@ https://azt-mun-runtime.otteravision.com/azt/mun/mun_720p_high.m3u8
 #EXTINF:-1 tvg-logo="", MX | Azteca Corazon
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
+EXTINF:-1 tvg-logo="", MX | 5
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist_1024x576.m3u8
+
 #EXTINF:-1 tvg-logo="", MX | 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1997432437.m3u8
  
@@ -1594,11 +1601,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
 
 # ------------------- Temporales -------------------------
 
+#EXTINF:-1 tvg-logo="", AR | America
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | El Nueve
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
+
 # -------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="", US | Nasa tv (eng)
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-
 
 # -------------- Deportes -----------------
 
@@ -1622,6 +1631,9 @@ https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES_4.m3u8
 
 #EXTINF:-1 tvg-logo="", ES | Real Madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="", MX | Vix TUDN
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist_1024x576.m3u8
  
 #EXTINF:-1, IT | Sportitalia
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
