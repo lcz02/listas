@@ -13,7 +13,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1920px-Canal_Golden_logo.svg.png", MX | Golden
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist_1024x576.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png", US | Golden Plus
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.92231216_GoldenPlus2020.png.9d28f761f6b2d784bafade6a479e053e.png", US | Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", MX | Golden premier
