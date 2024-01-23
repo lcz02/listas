@@ -10,8 +10,14 @@
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 #https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="", MX | Golden
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist_1024x576.m3u8
+
 #EXTINF:-1 tvg-logo="", US | Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1 tvg-logo="", MX | Golden premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Chilevisual film
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w1299186640.m3u8
@@ -30,6 +36,9 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w750657957.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_PELICULAS_HD.png", BO | SEO TV Peliculas
 https://live.seo.tv.bo/live/SEO-4.m3u8
+
+#EXTINF:-1 tvg-logo="", US | AMC Fast
+https://d38fxgxhpllpfu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/56b683f4-99d9-4cdd-8e75-e99486368ef5/2.m3u8
 
 #EXTINF:-1, LA | Runtime Peliculas
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
@@ -353,6 +362,8 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_5.m3u8
 #EXTINF:-1 tvg-logo="", PY | ABC
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
+#EXTINF:-1 tvg-logo="", ES | 24h
+https://d3pfmk89wc0vm9.cloudfront.net/24H_ES_4.m3u8
  
 # -----------------------------------------------
 
@@ -375,13 +386,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png", La Familia del Barrio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
- 
+
+#EXTINF:-1 tvg-logo="", Sony Comedias
+https://spt-comedias-3-us.samsung.wurl.tv/3000.m3u8
+
 # --------------------------------------------------
 
 # -------------- Gamer y Animación ------------------
 
 #EXTINF:-1 tvg-logo="", Moni tv
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1067083774.m3u8
+
+#EXTINF:-1 tvg-logo="", MX | bitMe
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | Energeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
@@ -643,6 +660,9 @@ http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w973376177.m3u8
  
 #EXTINF:-1 tvg-logo="", BO | Bolivision
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
+
+#EXTINF:-1 tvg-logo="", BO | Ceacom
+https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="", BO | TV Latina
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
@@ -1067,6 +1087,9 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="", MX | 5
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist_1024x576.m3u8
 
+#EXTINF:-1 tvg-logo="", MX | 9
+https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist_1024x576.m3u8
+
 #EXTINF:-1 tvg-logo="", MX | 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1997432437.m3u8
  
@@ -1353,6 +1376,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w634062387.m3u8
 #EXTINF:-1 tvg-logo="", SV | TRV
 https://stream.oursnetworktv.com/latin/encoder44/chunklist_w815181143.m3u8
 
+#EXTINF:-1 tvg-logo="", US | Univision
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist_1024x576.m3u8
+
 #EXTINF:-1 tvg-logo="", UY | Charrua tv
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/chunklist_w1445228592.m3u8
  
@@ -1380,7 +1406,8 @@ https://panel.miplay.cl:8081/ladies/tracks-v1a1/mono.m3u8
 http://sierra-002-showbusiness.unitedteleports.tv/SIERRA/showbusinesstv-demo.m3u8
  
 #EXTINF:-1 tvg-logo="", FR | Fashion tv
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+https://fashiontv-fashiontv-2-es.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
+#http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
  
 #EXTINF:-1 tvg-logo="", FR | Fashion tv Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
@@ -1413,14 +1440,17 @@ https://cinesureno-distro.amagi.tv/CineSureno-roku/master_5.m3u8
 #EXTINF:-1, MX | Pelimex
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
 
-#EXTINF:-1, MX | Estrella tv Cine
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-
-#EXTINF:-1, Canela Clasicos
+#EXTINF:-1, MX | Canela Clasicos
 https://cnm-cn-cc.otteravision.com/cnm/cc/cc_720p_high.m3u8
 
-#EXTINF:-1, MX | Cinema
+#EXTINF:-1 tvg-logo="", MX | Flou canela
+https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
+
+#EXTINF:-1, MX | Azteca Cinema
 https://azt-cin.otteravision.com/azt/cin/cin_720.m3u8
+
+#EXTINF:-1 tvg-logo="", MX | De Pelicula
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1, ES | Rakuten tv Cine español
 https://1306133dcf0640fe9a264e1537bb9782.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_Local/f71bee26-c7bd-4898-b913-79f0eee60c01/2.m3u8
@@ -1522,22 +1552,25 @@ https://vcp.myplaytv.com/coll/coll/chunklist_w180923458.m3u8
  
 # -------------- Novelas ----------------------
 
-#EXTINF:-1 tvg-logo="", Vix La Rosa de Guadalupe
+#EXTINF:-1 tvg-logo="", MX | tlnovelas
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1 tvg-logo="", MX | Vix La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="", ES | Novelas en español
 https://stormcast-novelas-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1, Televisa
+#EXTINF:-1, IT | Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-logo="", Kanal D Drama
+#EXTINF:-1 tvg-logo="", KR | Kanal D Drama
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_NOVELAS_HD.png", SEO TV Novelas
+#EXTINF:-1 tvg-id="" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_NOVELAS_HD.png", BO | SEO TV Novelas
 https://live.seo.tv.bo/live/SEO-3.m3u8
  
-#EXTINF:-1, Sony Novelas
+#EXTINF:-1, US | Sony Novelas
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
  
 # ----------------------------------------------------
