@@ -19,19 +19,19 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist_1024x576.m3
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.daa66de85a5eb89d6de3c0dc66082664.png", MX | Golden premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist_1024x576.m3u8
 
-#EXTINF:-1 tvg-logo="https://chilevisual.live/assets/img/trending/cvrfilm.png", CL | Chilevisual film
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1505_Chilevisual_Film.png", CL | Chilevisual film
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w1299186640.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99912765d4b4234eab782b5beb81286d.webp", CL | Planetatv movies
 https://scl.edge.grupoz.cl/movie/live/chunklist_w12926219.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | +Cine
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", CL | +Cine
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w1087029241.m3u8
 
-#EXTINF:-1, CL | Terror tv
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", CL | Terror tv
 https://tv.streaming-chile.com:1936/8140/8140/chunklist_w1158724473.m3u8
 
-#EXTINF:-1 tvg-logo="", CL | Origen tv
+#EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/12/LOGO-BLANCO-TV-chico.png", CL | Origen tv
 https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w750657957.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_PELICULAS_HD.png", BO | SEO TV Peliculas
@@ -1632,6 +1632,9 @@ https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
  
 #EXTINF:-1, Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
+
+#EXTINF:-1 tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/2560px-Cinema%2B_logo.svg.png", CO | Cinema +
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 
 # -------------------------------------------------------
 
