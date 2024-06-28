@@ -10,15 +10,6 @@
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 #https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.984186640_GoldenLA(2020).png.ab945d5e7ae44f4d88e7b84279962c49.png", MX | Golden
-https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.92231216_GoldenPlus2020.png.9d28f761f6b2d784bafade6a479e053e.png", US | Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.daa66de85a5eb89d6de3c0dc66082664.png", MX | Golden premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist_1024x576.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.m3u.cl/logo/1505_Chilevisual_Film.png", CL | Chilevisual film
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w1299186640.m3u8
 
@@ -43,10 +34,7 @@ https://stmv5.voxtvhd.com.br/247tv/247tv/chunklist_w89357996.m3u8
 #EXTINF:-1 tvg-logo="https://chilevisual.live/assets/img/trending/peruvisual.png", PE | Peruvisual
 https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.amc_us_hd.png.742bad66516bc20ee2d16440ccad4f2d.png", US | AMC Fast
-https://d38fxgxhpllpfu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/56b683f4-99d9-4cdd-8e75-e99486368ef5/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png", US | AMC Fast 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png", US | AMC Fast
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
 
 #EXTINF:-1, LA | Runtime Peliculas
@@ -169,7 +157,7 @@ https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
  
 #EXTINF:-1 tvg-logo="", AR | TVP
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
@@ -183,8 +171,14 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 ##EXTINF:-1 tvg-logo="", AR | Ciudad Magazine
 #https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="", AR | Caras tv
+https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/carastv/livestream1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="", MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+
+#EXTINF:-1 tvg-logo="", PA | TVMAX
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", PE | Latina
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
@@ -193,7 +187,7 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.TyCSports1(2022-)blanco.png.4cc895e7b6249c81e0e2eb52951310b0.png", AR | TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png", BO | SEO TV Deportes (ESPN)  
 https://live.seo.tv.bo/live/SEO-5.m3u8
@@ -323,7 +317,7 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 https://sabermas-distro.amagi.tv/SaberMas-xumo/master_5.m3u8
 
 #EXTINF:-1 tvg-logo="", DE | Deutsche Welle esp
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
  
 # ----------------------------------------------
 
@@ -354,13 +348,13 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream1/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="", AR | Cronica
-https://g4.mc-hor.transport.edge-access.net/b02/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8|Referer=https://vmf.edge-apps.net
+https://g5.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8|Referer=https://vmf.edge-apps.net
  
 #EXTINF:-1 tvg-logo="", AR | A24
 https://g4.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8|Referer=https://vmf.edge-apps.net
 
 #EXTINF:-1 tvg-logo="", AR | TN
-https://live-01-01-tn.vodgc.net/TN24/tracks-v4a1/mono.m3u8
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
   
 #EXTINF:-1 tvg-logo="", LA | Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
@@ -1000,7 +994,7 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/chunklist_w311285100_b1428000_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_tv-azteca-guatemala_m.png", GT | TV Azteca Guate
-http://45.5.117.138:25461/playgt/123456/68
+https://ch1-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="", GT | Televisiete
 https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT2/chunks.m3u8
@@ -1142,7 +1136,7 @@ https://igd-it.otteravision.com/igd/it/it_720.m3u8
 plugin://plugin.video.dailymotion_com/?url=x7rwv8c&mode=playLiveVideo
 
 #EXTINF:-1 tvg-logo="", NI | 10 Nicaragua
-https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/Canal10NI/Canal10NI1/chunks.m3u8
+https://alba-ni-c10-c10.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-logo="", NI | 13 Viva Nicaragua
 plugin://plugin.video.dailymotion_com/?url=x7u200z&mode=playLiveVideo
@@ -1388,6 +1382,9 @@ https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57
 #EXTINF:-1 tvg-logo="", SV | Canal 3
 https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w1610220774.m3u8
 
+#EXTINF:-1 tvg-logo="", SV | Canal 4
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/live-audio_0=64000-video=3000000.m3u8
+
 #EXTINF:-1 tvg-logo="", SV | Canal 6
 https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-audio_0=64000-video=2000000.m3u8
 
@@ -1503,6 +1500,9 @@ https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
  
 #EXTINF:-1 tvg-logo="", ES | Mijas 3.40 tv
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+
+#EXTINF:-1 tvg-logo="", ES | Calle 13
+https://spa-ha-p006.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8
 
 # ------------------------------------------------
  
