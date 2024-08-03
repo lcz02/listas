@@ -1638,6 +1638,9 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
+#EXTINF:-1 tvg-logo="",TyC Sports HD ARG
+http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100785&extension=ts
+
 #EXTINF:-1 tvg-logo="", AR | Tyc Play 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 
