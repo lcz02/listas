@@ -7,11 +7,8 @@
 # -------------- Peliculas ---------------------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png", LA | Sony Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
-#https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.m3u.cl/logo/1505_Chilevisual_Film.png", CL | Chilevisual film
-https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w1299186640.m3u8
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
+#https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", CL | +Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
@@ -19,14 +16,11 @@ https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", CL | Terror tv
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/12/LOGO-BLANCO-TV-chico.png", CL | Origen tv
-https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
+##EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/12/LOGO-BLANCO-TV-chico.png", CL | Origen tv
+#https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://chilevisual.live/assets/img/trending/247tvl.png", CL | 24-7 tv
-https://stmv5.voxtvhd.com.br/247tv/247tv/chunklist_w89357996.m3u8
-
-#EXTINF:-1 tvg-logo="https://chilevisual.live/assets/img/trending/peruvisual.png", PE | Peruvisual
-https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", FMH movies
+https://live-zlr1.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png", US | AMC Fast
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
@@ -135,14 +129,23 @@ https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8
 
 # -------------- Selección Lat ---------------------
 
+#EXTINF:-1 tvg-logo="", AR | America
+https://dsr.ride.com.ar/tvmia/an25/chunks.m3u8
+
+##EXTINF:-1 tvg-logo="", AR | TVP
+https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8|Referer=https://vmf.edge-apps.net
+
+#EXTINF:-1 tvg-logo="", AR | El nueve
+https://dsr.ride.com.ar/tvmia/an05/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="", AR | Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
  
-#EXTINF:-1 tvg-logo="", AR | TVP
-https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
-
 #EXTINF:-1 tvg-logo="", AR | El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Volver
+https://dsr.ride.com.ar/tvmia/an18/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Neox tv
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
@@ -158,9 +161,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", PE | Latina
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
-
-##EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.TyCSports1(2022-)blanco.png.4cc895e7b6249c81e0e2eb52951310b0.png", AR | TyC Sports
-##https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
  
 #EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png", DO | Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
@@ -303,6 +303,9 @@ https://g5.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all
  
 #EXTINF:-1 tvg-logo="", AR | A24
 https://g4.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8|Referer=https://vmf.edge-apps.net
+
+#EXTINF:-1 tvg-logo="", AR | C5N
+https://dsr.ride.com.ar/tvmia/an06/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | TN
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
@@ -665,6 +668,9 @@ https://unlimited6-cl.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/ch
 
 #EXTINF:-1 tvg-logo="", CL | Apanines tv
 https://inliveserver.com:1936/10010/10010/chunklist_w1343664420.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.m3u.cl/logo/1505_Chilevisual_Film.png", CL | Chilevisual
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/chunklist_w1815398882.m3u8
  
 #EXTINF:-1 tvg-logo="", CL | Contivision
 https://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8
@@ -1394,7 +1400,8 @@ https://stmv5.livecastv.com/manualtman/manualtman/chunklist_w159501479.m3u8
 # --------- Cine hispanoamerica -------------
 
 #EXTINF:-1 tvg-logo="", AR | Cine ar
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3u8
+https://dsr.ride.com.ar/tvmia/an16/chunks.m3u8
+#https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3u8
 
 #EXTINF:-1, MX | Cine sureño
 https://cinesureno-distro.amagi.tv/CineSureno-roku/master_5.m3u8
@@ -1638,8 +1645,29 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="",TyC Sports HD ARG
-http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100785&extension=ts
+#EXTINF:-1 tvg-logo="", AR | Gol tv
+https://dsr.ride.com.ar/tvmia/bn19/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | TNT Sports
+https://dsr.ride.com.ar/tvmia/an32/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | ESPN
+https://dsr.ride.com.ar/tvmia/an21/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | ESPN 2
+https://dsr.ride.com.ar/tvmia/bn05/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | ESPN 3
+https://dsr.ride.com.ar/tvmia/an26/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Fox Sports
+https://dsr.ride.com.ar/tvmia/an23/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Fox Sports 2
+https://dsr.ride.com.ar/tvmia/an24/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.TyCSports1(2022-)blanco.png.4cc895e7b6249c81e0e2eb52951310b0.png", AR | TyC Sports
+https://dsr.ride.com.ar/tvmia/an60/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Tyc Play 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
