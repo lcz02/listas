@@ -3,54 +3,97 @@
 # --- Lista latinoamericana para tivimate ----
 # --- Actualizada 28/06/24 ---
 # --- Haciendo click en RAW obtienes la url en formato correcto ---
- 
+
+# -------------- Tradicional ---------------------
+
+#EXTINF:-1 tvg-logo="", AR | America
+https://dsr.ride.com.ar/tvmia/an25/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | TVP
+#EXTVLCOPT:http-user-agent=iPhone
+https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | El nueve
+https://dsr.ride.com.ar/tvmia/an05/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+#EXTINF:-1 tvg-logo="", AR | El trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", MX | Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="", Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png", AR | Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | TNT Sports
+https://dsr.ride.com.ar/tvmia/an32/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | ESPN
+https://dsr.ride.com.ar/tvmia/an21/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | ESPN 2
+https://dsr.ride.com.ar/tvmia/bn05/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | ESPN 3
+https://dsr.ride.com.ar/tvmia/an26/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Fox Sports
+https://dsr.ride.com.ar/tvmia/an23/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Fox Sports 2
+https://dsr.ride.com.ar/tvmia/an24/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.TyCSports1(2022-)blanco.png.4cc895e7b6249c81e0e2eb52951310b0.png", AR | TyC Sports
+https://dsr.ride.com.ar/tvmia/an60/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", DE | Deutsche Welle esp
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+# ------------------------------------------------
+
 # -------------- Peliculas ---------------------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png", LA | Sony Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
-#https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", CL | +Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", CL | Terror tv
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/12/LOGO-BLANCO-TV-chico.png", CL | Origen tv
-https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_PELICULAS_HD.png", BO | SEO TV Peliculas
-https://seo.tv.bo/tv/SEOTV4_HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://chilevisual.live/assets/img/trending/247tvl.png", CL | 24-7 tv
-https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://chilevisual.live/assets/img/trending/peruvisual.png", PE | Peruvisual
-https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png", US | AMC Fast
-https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", FMH movies
+https://live-zlr1.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
 
 #EXTINF:-1, LA | Runtime Peliculas
-https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx.m3u8
 
 #EXTINF:-1, LA | Runtime Accion
-https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
+https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac.m3u8
 
 #EXTINF:-1, LA | Runtime Comedia
-https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
+https://run-rc-la.otteravision.com/run/rc_la/rc_la.m3u8
 
 #EXTINF:-1, LA | Runtime Crimen
-https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
+https://run-rucrl.otteravision.com/run/rucrl/rucrl.m3u8
 
 #EXTINF:-1, LA | Runtime Terror
-https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
+https://run-ruthr.otteravision.com/run/ruthr/ruthr.m3u8
 
 #EXTINF:-1, LA | Runtime Romance
-https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
+https://run-rurol.otteravision.com/run/rurol/rurol.m3u8
 
 #EXTINF:-1, LA | Runtime Familia
-https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
+https://run-runfl.otteravision.com/run/runfl/runfl.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png", US | AMC Fast esp
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", LA | Hallmark esp
+https://d39mlvgry5t1hu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f351ogneq6tnr/Hallmark_en_Espanol.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Multivision
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
@@ -120,15 +163,6 @@ https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8
 
 # -------------- Selección Lat ---------------------
 
-#EXTINF:-1 tvg-logo="", AR | Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
- 
-#EXTINF:-1 tvg-logo="", AR | TVP
-https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="", AR | El trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="", AR | Neox tv
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
@@ -137,15 +171,6 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png", PE | Latina
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.TyCSports1(2022-)blanco.png.4cc895e7b6249c81e0e2eb52951310b0.png", AR | TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-
-#EXTINF:-1 tvg-logo="", AR | Tyc Sports 2
-https://d2epjg24mgndbw.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png", BO | SEO TV Deportes (ESPN)  
-https://live.seo.tv.bo/live/SEO-5.m3u8
 
 #EXTINF:-1 tvg-logo="", PE | Bella Asunción
 https://tvdatta.com:3602/stream/play.m3u8
@@ -177,9 +202,6 @@ https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f58
 #EXTINF:-1 tvg-logo="", US | Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png", AR | Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-
 #EXTINF:-1 tvg-logo="", CL | Zoom back
 https://panel.miplay.cl:8081/zoomback/tracks-v1a1/mono.m3u8
 
@@ -196,9 +218,6 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1293437143.m3u8
 #EXTINF:-1 tvg-logo="", AR | Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w2123580557.m3u8
  
-##EXTINF:-1 tvg-logo="", AR | TEC
-#https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-
 #EXTINF:-1 tvg-logo="", AR | TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
@@ -267,9 +286,6 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
  
 #EXTINF:-1,Saber mas
 https://sabermas-distro.amagi.tv/SaberMas-xumo/master_5.m3u8
-
-#EXTINF:-1 tvg-logo="", DE | Deutsche Welle esp
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
  
 # ----------------------------------------------
 
@@ -299,7 +315,7 @@ https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/perfiltv/livestre
 #EXTINF:-1 tvg-logo="", AR | Cronica
 https://g5.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8|Referer=https://vmf.edge-apps.net
  
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News",A24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png", A24
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
@@ -1608,34 +1624,44 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Deportv
-https://stream.castr.com/678676a441941d5152afdd06/live_7e27c6d0d35d11ef91eef9363c3521b5/index.fmp4.m3u8|Referer=https://player.castr.com/
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+https://stream.castr.com/678676a441941d5152afdd06/live_7e27c6d0d35d11ef91eef9363c3521b5/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Tyc Play 1
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
+#EXTINF:-1 tvg-logo="", AR | Gol tv
+https://dsr.ride.com.ar/tvmia/bn19/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Tyc Play 2
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_14.m3u8
+#EXTINF:-1 tvg-logo="", AR | TyC Play 3
+https://ch03-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Tyc Play 3
-https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index_14.m3u8
+#EXTINF:-1 tvg-logo="", AR | TyC Play 4
+https://ch04-04-11-tyc.vodgc.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Tyc Play 4
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
+#EXTINF:-1 tvg-logo="", AR | TyC Play 5
+https://ch05-04-11-tyc.vodgc.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Tyc Play 5
-https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_10.m3u8
+#EXTINF:-1 tvg-logo="", AR | TyC Play 6
+https://ch06-04-11-tyc.vodgc.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Tyc Play 6
-https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index_10.m3u8
+#EXTINF:-1 tvg-logo="", AR | TyC Play 7
+https://ch07-04-11-tyc.vodgc.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Tyc Play 7
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_13.m3u8
+#EXTINF:-1 tvg-logo="", AR | TyC Play 8
+https://ch08-04-11-tyc.vodgc.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | Tyc Play 8
-https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index_14.m3u8
+#EXTINF:-1 tvg-logo="", AR | TyC Play 9
+https://ch09-04-11-tyc.vodgc.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | TyC Play 10
+https://ch10-04-11-tyc.vodgc.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | TyC Play 11
+https://ch11-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | TyC Play 12
+https://ch12-04-11-tyc.vodgc.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
 
 
 # -----------------------------------------------
