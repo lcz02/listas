@@ -17,7 +17,7 @@ https://g2.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://dsr.ride.com.ar/tvmia/an05/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+https://dsr.ride.com.ar/tvmia/an11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
