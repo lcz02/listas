@@ -64,6 +64,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_08/large.2980387507709.png.d1455fe87fcdf3bb857ce2d69c2730a1.png", AR | C5N
 https://dsr.ride.com.ar/tvmia/an06/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="", AR | TN
+#EXTVLCOPT:http-referrer=http://www.tn.com.ar/
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
 # ------------------------------------------------
 
 # -------------- Peliculas ---------------------
@@ -325,9 +329,6 @@ https://g5.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
-#EXTINF:-1 tvg-logo="", AR | TN
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-  
 #EXTINF:-1 tvg-logo="", LA | Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
