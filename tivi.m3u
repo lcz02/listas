@@ -1608,8 +1608,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Deportv
-#EXTVLCOPT:http-referrer=https://player.castr.com/
-https://stream.castr.com/678676a441941d5152afdd06/live_7e27c6d0d35d11ef91eef9363c3521b5/index.fmp4.m3u8
+https://stream.castr.com/678676a441941d5152afdd06/live_7e27c6d0d35d11ef91eef9363c3521b5/index.fmp4.m3u8|Referer=https://player.castr.com/
 
 #EXTINF:-1 tvg-logo="", US | Bein Sports xtra esp
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
