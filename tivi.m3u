@@ -31,7 +31,7 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/volver-3023.png", Volver
 https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
 
-#EXTINF:0,tvg-logo="https://www.telcocom.com.ar/img/canales/cinecanal.png",Cinecanal 
+#EXTINF:-1 tvg-logo="https://www.telcocom.com.ar/img/canales/cinecanal.png", Cinecanal 
 https://tinyurl.com/2wc5ekkj
 
 #EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png", AR | Locomotion
