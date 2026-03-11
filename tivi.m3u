@@ -11,13 +11,14 @@
 https://g2.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | El trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8|Referer=https://www.eltrecetv.com.ar/
 
 #EXTINF:-1 tvg-logo="", MX | Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="", Ciudad Magazine
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+##EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="", Ciudad Magazine
+##https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png", AR | Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -29,18 +30,15 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.tn.com.ar/
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
+#EXTINF:-1 tvg-logo="", AR | Tyc Sports
+https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
+
 # ------------------------------------------------
 
 # -------------- Peliculas ---------------------
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png", LA | Sony Cine
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", CL | +Cine
-https://tv.arkeo.cl:19360/8128/8128.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", FMH movies
-https://live-zlr1.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1003/lg/003d48/LG-Logo-PNG-100x100_v1.png",Sony Cinema
+https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
 #EXTINF:-1, LA | Runtime Peliculas
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx.m3u8
@@ -65,9 +63,6 @@ https://run-runfl.otteravision.com/run/runfl/runfl.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png", US | AMC Fast esp
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", LA | Hallmark esp
-https://d39mlvgry5t1hu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f351ogneq6tnr/Hallmark_en_Espanol.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Multivision
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
@@ -113,13 +108,16 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCtEVPc.jpg", Teleclasica
-https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
+https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVb8GeN.png", TV Retro Palmares
-https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GF3i7qq.png", Retro TV HD
-https://ssh101.bozztv.com/ssh101/retrotvcr/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GF3i7qq.png", Retro TV
+https://stream.enlineatv.net/hls/retrotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GF3i7qq.png", MX | TV Retro
+https://eu1.servers10.com:8081/8328/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", CR | Retrox tv
 https://tgn.bozztv.com/ssh101/ssh101/123456789/chunks.m3u8
@@ -138,10 +136,13 @@ https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8
 # -------------- Selección Lat ---------------------
 
 #EXTINF:-1 tvg-logo="", AR | Kanade
-https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&WebM3UCL
+https://static.kanade.cl/hls/kanade.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Neox tv
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
+#EXTINF:-1 tvg-logo="", AR | Neo tv digital
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="", AR | Bayres tv
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -187,6 +188,9 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1993337622.m3u8
 
 #EXTINF:-1 tvg-logo="", CL | VClassic tv tropical
 https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1293437143.m3u8
+
+#EXTINF:-1 tvg-logo="", CL | Cumbia mix
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 
 # --------------------------------------------------
 
@@ -1569,6 +1573,9 @@ https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 # -------------------------------------------------------
 
 # -------------- Deportes -----------------
+
+#EXTINF:-1 tvg-logo="", MX | TUDN
+https://linear-357.frequency.stream/dist/vizio/357/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", PE | Contacto deportivo
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
